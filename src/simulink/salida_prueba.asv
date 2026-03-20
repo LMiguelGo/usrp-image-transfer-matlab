@@ -1,0 +1,12 @@
+salida = cat(1, out.simout(:,:,1:end));
+vector = salida(:);
+
+salida = squeeze(out.simout);
+salida = salida(:);
+delay = int32(1690);
+rx    = double(salida);
+tx    = double(secuencia_binaria(1:6763104));
+
+rx_corregido = rx(delay+1 : delay+6763104);
+ber = sum(rx_corregido ~= tx) / 6763104;
+fprintf('BER con delay=%d: %.8f\n', delay, ber);

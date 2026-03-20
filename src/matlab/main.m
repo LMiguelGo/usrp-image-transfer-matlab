@@ -1,7 +1,7 @@
 % MAIN - Archivo principal del transmisor
 
 % ── Función 1 Cargar imagen ──────────────────────────────
-[imagen, filas, columnas, canales] = cargar_imagen('italy.jpg');
+[imagen, filas, columnas, canales] = cargar_imagen('../../data/input/italy.jpg');
 
 % ── Función 2 Compresión por paleta ─────────────────────
 [imagen_indexada, paleta] = comprimir_paleta(imagen);
