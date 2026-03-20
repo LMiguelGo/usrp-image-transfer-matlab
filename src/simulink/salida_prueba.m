@@ -12,3 +12,19 @@ end
 delay_optimo   = rango(idx);
 fprintf('Delay óptimo: %d bits — BER: %.8f\n', delay_optimo, ber_min);
 
+% Reconstruir
+
+delay = 1690;  % bits de delay detectados
+rx_corregido = out.simout(delay+1 : delay+6763104);
+
+raw = rx_corregido;
+bits_mat     = reshape(raw, 8, [])';
+secuencia_rx = uint8(bi2de(bits_mat, 'left-msb'));
+
+img_idx = reshape(secuencia_rx, 1021, 828);   % column-major
+indices = double(img_idx) + 1;
+img_rgb = reshape(paleta(indices(:),:), 1021, 828, 3);
+
+figure
+subplot(1,2,1), imshow(imagen),  title('Original')
+subplot(1,2,2), imshow(img_rgb), title('Reconstruida')
