@@ -30,7 +30,7 @@ To ensure all functions and models work correctly, follow these steps:
    Navigate to `src/simulink/` and open:
 
    * `tx.slx` for transmission
-   * The respective reception model for RX
+   * `rx.slx` for reception
 
 ---
 
