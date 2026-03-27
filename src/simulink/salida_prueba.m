@@ -1,4 +1,4 @@
-rx = double(reshape(out.simout, [], 1));
+rx = double(reshape(out.simout1.Data, [], 1));
 tx = double(secuencia_binaria(1:6763104));
 
 rango = 1600:2500;
@@ -14,8 +14,8 @@ fprintf('Delay óptimo: %d bits — BER: %.8f\n', delay_optimo, ber_min);
 
 % Reconstruir
 
-delay = 1690;  % bits de delay detectados
-rx_corregido = out.simout(delay+1 : delay+6763104);
+delay = delay_optimo + 20 + 12;  % bits de delay detectados
+rx_corregido = out.simout1.Data(delay+1 : delay+6763104);
 
 raw = rx_corregido;
 bits_mat     = reshape(raw, 8, [])';
@@ -25,6 +25,6 @@ img_idx = reshape(secuencia_rx, 1021, 828);   % column-major
 indices = double(img_idx) + 1;
 img_rgb = reshape(paleta(indices(:),:), 1021, 828, 3);
 
-figure
+figure,
 subplot(1,2,1), imshow(imagen),  title('Original')
 subplot(1,2,2), imshow(img_rgb), title('Reconstruida')

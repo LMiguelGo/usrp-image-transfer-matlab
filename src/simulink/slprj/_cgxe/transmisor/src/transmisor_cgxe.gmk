@@ -8,7 +8,7 @@ LD = $(CC)
  
 MODEL     = transmisor
 TARGET      = cgxe
-MODULE_SRCS   = m_otduqPw1TUwalbgDHtdM9C.c
+MODULE_SRCS   = m_3RzNf8pcd3Smj4HTKf4YfB.c
 MODEL_SRC  = transmisor_cgxe.c
 MODEL_REG = transmisor_cgxe_registry.c
 MAKEFILE    = transmisor_cgxe.gmk

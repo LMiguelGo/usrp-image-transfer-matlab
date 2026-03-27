@@ -1,8 +1,8 @@
 /* Include files */
 
 #include "modelInterface.h"
-#include "m_otduqPw1TUwalbgDHtdM9C.h"
-#include <string.h>
+#include "m_3RzNf8pcd3Smj4HTKf4YfB.h"
+#include <emmintrin.h>
 #include "mwmathutil.h"
 
 /* Type Definitions */
@@ -42,109 +42,109 @@ static emlrtRSInfo f_emlrtRSI = { 1,   /* lineNo */
   "C:\\Program Files\\MATLAB\\R2025b\\toolbox\\shared\\system\\coder\\+matlab\\+system\\+coder\\SystemCore.p"/* pathName */
 };
 
-static emlrtRSInfo g_emlrtRSI = { 14,  /* lineNo */
+static emlrtRSInfo g_emlrtRSI = { 11,  /* lineNo */
   "",                                  /* fcnName */
   ""                                   /* pathName */
 };
 
-static emlrtRSInfo h_emlrtRSI = { 25,  /* lineNo */
+static emlrtRSInfo h_emlrtRSI = { 22,  /* lineNo */
   "",                                  /* fcnName */
   ""                                   /* pathName */
 };
 
-static emlrtRSInfo i_emlrtRSI = { 27,  /* lineNo */
+static emlrtRSInfo i_emlrtRSI = { 23,  /* lineNo */
   "",                                  /* fcnName */
   ""                                   /* pathName */
 };
 
-static emlrtRSInfo j_emlrtRSI = { 28,  /* lineNo */
+static emlrtRSInfo j_emlrtRSI = { 29,  /* lineNo */
   "",                                  /* fcnName */
   ""                                   /* pathName */
 };
 
-static emlrtRSInfo k_emlrtRSI = { 35,  /* lineNo */
-  "",                                  /* fcnName */
-  ""                                   /* pathName */
-};
-
-static emlrtRSInfo l_emlrtRSI = { 165, /* lineNo */
+static emlrtRSInfo k_emlrtRSI = { 177, /* lineNo */
   "AWGNChannelBase",                   /* fcnName */
   "C:\\Program Files\\MATLAB\\R2025b\\toolbox\\comm\\comm\\+comm\\+internal\\AWGNChannelBase.m"/* pathName */
 };
 
-static emlrtRSInfo m_emlrtRSI = { 93,  /* lineNo */
+static emlrtRSInfo l_emlrtRSI = { 93,  /* lineNo */
   "validateattributes",                /* fcnName */
   "C:\\Program Files\\MATLAB\\R2025b\\toolbox\\eml\\lib\\matlab\\lang\\validateattributes.m"/* pathName */
 };
 
-static emlrtRSInfo n_emlrtRSI = { 190, /* lineNo */
+static emlrtRSInfo m_emlrtRSI = { 190, /* lineNo */
   "AWGNChannelBase",                   /* fcnName */
   "C:\\Program Files\\MATLAB\\R2025b\\toolbox\\comm\\comm\\+comm\\+internal\\AWGNChannelBase.m"/* pathName */
 };
 
-static emlrtRSInfo o_emlrtRSI = { 341, /* lineNo */
+static emlrtRSInfo n_emlrtRSI = { 341, /* lineNo */
   "AWGNChannel",                       /* fcnName */
   "C:\\Program Files\\MATLAB\\R2025b\\toolbox\\comm\\comm\\+comm\\+internal\\AWGNChannel.m"/* pathName */
 };
 
-static emlrtRSInfo p_emlrtRSI = { 364, /* lineNo */
+static emlrtRSInfo o_emlrtRSI = { 364, /* lineNo */
   "AWGNChannel",                       /* fcnName */
   "C:\\Program Files\\MATLAB\\R2025b\\toolbox\\comm\\comm\\+comm\\+internal\\AWGNChannel.m"/* pathName */
 };
 
-static emlrtRSInfo q_emlrtRSI = { 374, /* lineNo */
+static emlrtRSInfo p_emlrtRSI = { 374, /* lineNo */
   "AWGNChannel",                       /* fcnName */
   "C:\\Program Files\\MATLAB\\R2025b\\toolbox\\comm\\comm\\+comm\\+internal\\AWGNChannel.m"/* pathName */
 };
 
-static emlrtRSInfo r_emlrtRSI = { 464, /* lineNo */
+static emlrtRSInfo q_emlrtRSI = { 475, /* lineNo */
   "AWGNChannelBase",                   /* fcnName */
   "C:\\Program Files\\MATLAB\\R2025b\\toolbox\\comm\\comm\\+comm\\+internal\\AWGNChannelBase.m"/* pathName */
 };
 
-static emlrtRSInfo s_emlrtRSI = { 232, /* lineNo */
+static emlrtRSInfo r_emlrtRSI = { 232, /* lineNo */
   "AWGNChannelBase",                   /* fcnName */
   "C:\\Program Files\\MATLAB\\R2025b\\toolbox\\comm\\comm\\+comm\\+internal\\AWGNChannelBase.m"/* pathName */
 };
 
-static emlrtRSInfo t_emlrtRSI = { 132, /* lineNo */
+static emlrtRSInfo s_emlrtRSI = { 132, /* lineNo */
   "rng",                               /* fcnName */
   "C:\\Program Files\\MATLAB\\R2025b\\toolbox\\eml\\lib\\matlab\\randfun\\rng.m"/* pathName */
 };
 
-static emlrtRSInfo u_emlrtRSI = { 135, /* lineNo */
+static emlrtRSInfo t_emlrtRSI = { 135, /* lineNo */
   "rng",                               /* fcnName */
   "C:\\Program Files\\MATLAB\\R2025b\\toolbox\\eml\\lib\\matlab\\randfun\\rng.m"/* pathName */
 };
 
-static emlrtRSInfo v_emlrtRSI = { 137, /* lineNo */
+static emlrtRSInfo u_emlrtRSI = { 137, /* lineNo */
   "rng",                               /* fcnName */
   "C:\\Program Files\\MATLAB\\R2025b\\toolbox\\eml\\lib\\matlab\\randfun\\rng.m"/* pathName */
 };
 
-static emlrtRSInfo w_emlrtRSI = { 139, /* lineNo */
+static emlrtRSInfo v_emlrtRSI = { 139, /* lineNo */
   "rng",                               /* fcnName */
   "C:\\Program Files\\MATLAB\\R2025b\\toolbox\\eml\\lib\\matlab\\randfun\\rng.m"/* pathName */
 };
 
-static emlrtRSInfo x_emlrtRSI = { 9,   /* lineNo */
+static emlrtRSInfo w_emlrtRSI = { 9,   /* lineNo */
   "shuffleSeed",                       /* fcnName */
   "C:\\Program Files\\MATLAB\\R2025b\\toolbox\\eml\\eml\\+coder\\+internal\\+randfun\\shuffleSeed.m"/* pathName */
 };
 
-static emlrtRSInfo y_emlrtRSI = { 11,  /* lineNo */
+static emlrtRSInfo x_emlrtRSI = { 11,  /* lineNo */
   "shuffleSeed",                       /* fcnName */
   "C:\\Program Files\\MATLAB\\R2025b\\toolbox\\eml\\eml\\+coder\\+internal\\+randfun\\shuffleSeed.m"/* pathName */
 };
 
-static emlrtRSInfo ab_emlrtRSI = { 13, /* lineNo */
+static emlrtRSInfo y_emlrtRSI = { 13,  /* lineNo */
   "shuffleSeed",                       /* fcnName */
   "C:\\Program Files\\MATLAB\\R2025b\\toolbox\\eml\\eml\\+coder\\+internal\\+randfun\\shuffleSeed.m"/* pathName */
 };
 
-static emlrtRSInfo bb_emlrtRSI = { 14, /* lineNo */
+static emlrtRSInfo ab_emlrtRSI = { 14, /* lineNo */
   "shuffleSeed",                       /* fcnName */
   "C:\\Program Files\\MATLAB\\R2025b\\toolbox\\eml\\eml\\+coder\\+internal\\+randfun\\shuffleSeed.m"/* pathName */
+};
+
+static emlrtRSInfo bb_emlrtRSI = { 31, /* lineNo */
+  "",                                  /* fcnName */
+  ""                                   /* pathName */
 };
 
 static emlrtRSInfo cb_emlrtRSI = { 37, /* lineNo */
@@ -152,97 +152,87 @@ static emlrtRSInfo cb_emlrtRSI = { 37, /* lineNo */
   ""                                   /* pathName */
 };
 
-static emlrtRSInfo db_emlrtRSI = { 43, /* lineNo */
+static emlrtRSInfo db_emlrtRSI = { 46, /* lineNo */
   "",                                  /* fcnName */
   ""                                   /* pathName */
 };
 
-static emlrtRSInfo eb_emlrtRSI = { 52, /* lineNo */
+static emlrtRSInfo eb_emlrtRSI = { 54, /* lineNo */
   "",                                  /* fcnName */
   ""                                   /* pathName */
 };
 
-static emlrtRSInfo fb_emlrtRSI = { 60, /* lineNo */
-  "",                                  /* fcnName */
-  ""                                   /* pathName */
-};
-
-static emlrtRSInfo gb_emlrtRSI = { 447,/* lineNo */
+static emlrtRSInfo fb_emlrtRSI = { 447,/* lineNo */
   "AWGNChannel",                       /* fcnName */
   "C:\\Program Files\\MATLAB\\R2025b\\toolbox\\comm\\comm\\+comm\\+internal\\AWGNChannel.m"/* pathName */
 };
 
-static emlrtRSInfo hb_emlrtRSI = { 345,/* lineNo */
+static emlrtRSInfo gb_emlrtRSI = { 345,/* lineNo */
   "AWGNChannelBase",                   /* fcnName */
   "C:\\Program Files\\MATLAB\\R2025b\\toolbox\\comm\\comm\\+comm\\+internal\\AWGNChannelBase.m"/* pathName */
 };
 
-static emlrtRSInfo ib_emlrtRSI = { 308,/* lineNo */
+static emlrtRSInfo hb_emlrtRSI = { 308,/* lineNo */
   "AWGNChannelBase",                   /* fcnName */
   "C:\\Program Files\\MATLAB\\R2025b\\toolbox\\comm\\comm\\+comm\\+internal\\AWGNChannelBase.m"/* pathName */
 };
 
-static emlrtRSInfo jb_emlrtRSI = { 270,/* lineNo */
+static emlrtRSInfo ib_emlrtRSI = { 270,/* lineNo */
   "AWGNChannel",                       /* fcnName */
   "C:\\Program Files\\MATLAB\\R2025b\\toolbox\\comm\\comm\\+comm\\+internal\\AWGNChannel.m"/* pathName */
 };
 
-static emlrtRSInfo kb_emlrtRSI = { 108,/* lineNo */
+static emlrtRSInfo jb_emlrtRSI = { 106,/* lineNo */
   "randn",                             /* fcnName */
   "C:\\Program Files\\MATLAB\\R2025b\\toolbox\\eml\\lib\\matlab\\randfun\\randn.m"/* pathName */
 };
 
-static emlrtRSInfo lb_emlrtRSI = { 134,/* lineNo */
+static emlrtRSInfo kb_emlrtRSI = { 117,/* lineNo */
   "randn",                             /* fcnName */
   "C:\\Program Files\\MATLAB\\R2025b\\toolbox\\eml\\lib\\matlab\\randfun\\randn.m"/* pathName */
 };
 
-static emlrtRSInfo mb_emlrtRSI = { 40, /* lineNo */
+static emlrtRSInfo lb_emlrtRSI = { 40, /* lineNo */
   "eml_randn",                         /* fcnName */
   "C:\\Program Files\\MATLAB\\R2025b\\toolbox\\eml\\lib\\matlab\\randfun\\private\\eml_randn.m"/* pathName */
 };
 
-static emlrtRSInfo nb_emlrtRSI = { 41, /* lineNo */
+static emlrtRSInfo mb_emlrtRSI = { 41, /* lineNo */
   "eml_rand",                          /* fcnName */
   "C:\\Program Files\\MATLAB\\R2025b\\toolbox\\eml\\lib\\matlab\\randfun\\private\\eml_rand.m"/* pathName */
 };
 
-static emlrtRSInfo ob_emlrtRSI = { 43, /* lineNo */
+static emlrtRSInfo nb_emlrtRSI = { 43, /* lineNo */
   "eml_rand",                          /* fcnName */
   "C:\\Program Files\\MATLAB\\R2025b\\toolbox\\eml\\lib\\matlab\\randfun\\private\\eml_rand.m"/* pathName */
 };
 
-static emlrtRSInfo pb_emlrtRSI = { 45, /* lineNo */
+static emlrtRSInfo ob_emlrtRSI = { 45, /* lineNo */
   "eml_rand",                          /* fcnName */
   "C:\\Program Files\\MATLAB\\R2025b\\toolbox\\eml\\lib\\matlab\\randfun\\private\\eml_rand.m"/* pathName */
 };
 
-static emlrtRSInfo qb_emlrtRSI = { 31, /* lineNo */
+static emlrtRSInfo pb_emlrtRSI = { 39, /* lineNo */
   "eml_rand_mt19937ar_stateful",       /* fcnName */
   "C:\\Program Files\\MATLAB\\R2025b\\toolbox\\eml\\lib\\matlab\\randfun\\private\\eml_rand_mt19937ar_stateful.m"/* pathName */
 };
 
-static emlrtRSInfo rb_emlrtRSI = { 32, /* lineNo */
-  "eml_rand_mt19937ar_stateful",       /* fcnName */
-  "C:\\Program Files\\MATLAB\\R2025b\\toolbox\\eml\\lib\\matlab\\randfun\\private\\eml_rand_mt19937ar_stateful.m"/* pathName */
-};
-
-static emlrtRSInfo sb_emlrtRSI = { 56, /* lineNo */
+static emlrtRSInfo qb_emlrtRSI = { 56, /* lineNo */
   "eml_rand_mt19937ar",                /* fcnName */
   "C:\\Program Files\\MATLAB\\R2025b\\toolbox\\eml\\eml\\+coder\\+internal\\+randfun\\eml_rand_mt19937ar.m"/* pathName */
 };
 
-static emlrtRSInfo tb_emlrtRSI = { 405,/* lineNo */
+static emlrtRSInfo rb_emlrtRSI = { 405,/* lineNo */
   "eml_rand_mt19937ar",                /* fcnName */
   "C:\\Program Files\\MATLAB\\R2025b\\toolbox\\eml\\eml\\+coder\\+internal\\+randfun\\eml_rand_mt19937ar.m"/* pathName */
 };
 
-static emlrtRSInfo ub_emlrtRSI = { 414,/* lineNo */
+static emlrtRSInfo sb_emlrtRSI = { 414,/* lineNo */
   "eml_rand_mt19937ar",                /* fcnName */
   "C:\\Program Files\\MATLAB\\R2025b\\toolbox\\eml\\eml\\+coder\\+internal\\+randfun\\eml_rand_mt19937ar.m"/* pathName */
 };
 
-static emlrtRSInfo vb_emlrtRSI = { 416,/* lineNo */
+static emlrtRSInfo tb_emlrtRSI = { 416,/* lineNo */
   "eml_rand_mt19937ar",                /* fcnName */
   "C:\\Program Files\\MATLAB\\R2025b\\toolbox\\eml\\eml\\+coder\\+internal\\+randfun\\eml_rand_mt19937ar.m"/* pathName */
 };
@@ -325,117 +315,112 @@ static emlrtMCInfo m_emlrtMCI = { 125, /* lineNo */
   "C:\\Program Files\\MATLAB\\R2025b\\toolbox\\eml\\eml\\+coder\\+internal\\+randfun\\eml_rand_mt19937ar.m"/* pName */
 };
 
-static emlrtRSInfo wb_emlrtRSI = { 13, /* lineNo */
+static emlrtRSInfo ub_emlrtRSI = { 13, /* lineNo */
   "sqrt",                              /* fcnName */
   "C:\\Program Files\\MATLAB\\R2025b\\toolbox\\eml\\lib\\matlab\\elfun\\sqrt.m"/* pathName */
 };
 
-static emlrtRSInfo xb_emlrtRSI = { 14, /* lineNo */
+static emlrtRSInfo vb_emlrtRSI = { 14, /* lineNo */
   "validatefinite",                    /* fcnName */
   "C:\\Program Files\\MATLAB\\R2025b\\toolbox\\eml\\eml\\+coder\\+internal\\+valattr\\validatefinite.m"/* pathName */
 };
 
-static emlrtRSInfo yb_emlrtRSI = { 14, /* lineNo */
+static emlrtRSInfo wb_emlrtRSI = { 14, /* lineNo */
   "validatenonnegative",               /* fcnName */
   "C:\\Program Files\\MATLAB\\R2025b\\toolbox\\eml\\eml\\+coder\\+internal\\+valattr\\validatenonnegative.m"/* pathName */
 };
 
-static emlrtRSInfo ac_emlrtRSI = { 13, /* lineNo */
+static emlrtRSInfo xb_emlrtRSI = { 13, /* lineNo */
   "validateinteger",                   /* fcnName */
   "C:\\Program Files\\MATLAB\\R2025b\\toolbox\\eml\\eml\\+coder\\+internal\\+valattr\\validateinteger.m"/* pathName */
 };
 
-static emlrtRSInfo bc_emlrtRSI = { 14, /* lineNo */
+static emlrtRSInfo yb_emlrtRSI = { 14, /* lineNo */
   "validatenonnan",                    /* fcnName */
   "C:\\Program Files\\MATLAB\\R2025b\\toolbox\\eml\\eml\\+coder\\+internal\\+valattr\\validatenonnan.m"/* pathName */
 };
 
-static emlrtRSInfo cc_emlrtRSI = { 14, /* lineNo */
+static emlrtRSInfo ac_emlrtRSI = { 14, /* lineNo */
   "validatepositive",                  /* fcnName */
   "C:\\Program Files\\MATLAB\\R2025b\\toolbox\\eml\\eml\\+coder\\+internal\\+valattr\\validatepositive.m"/* pathName */
 };
 
-static emlrtRSInfo dc_emlrtRSI = { 125,/* lineNo */
+static emlrtRSInfo bc_emlrtRSI = { 125,/* lineNo */
   "eml_rand_mt19937ar",                /* fcnName */
   "C:\\Program Files\\MATLAB\\R2025b\\toolbox\\eml\\eml\\+coder\\+internal\\+randfun\\eml_rand_mt19937ar.m"/* pathName */
 };
 
-static emlrtRSInfo ec_emlrtRSI = { 286,/* lineNo */
+static emlrtRSInfo cc_emlrtRSI = { 286,/* lineNo */
   "AWGNChannelBase",                   /* fcnName */
   "C:\\Program Files\\MATLAB\\R2025b\\toolbox\\comm\\comm\\+comm\\+internal\\AWGNChannelBase.m"/* pathName */
 };
 
-static emlrtRSInfo fc_emlrtRSI = { 293,/* lineNo */
+static emlrtRSInfo dc_emlrtRSI = { 293,/* lineNo */
   "AWGNChannelBase",                   /* fcnName */
   "C:\\Program Files\\MATLAB\\R2025b\\toolbox\\comm\\comm\\+comm\\+internal\\AWGNChannelBase.m"/* pathName */
 };
 
-static emlrtRSInfo gc_emlrtRSI = { 141,/* lineNo */
+static emlrtRSInfo ec_emlrtRSI = { 141,/* lineNo */
   "rng",                               /* fcnName */
   "C:\\Program Files\\MATLAB\\R2025b\\toolbox\\eml\\lib\\matlab\\randfun\\rng.m"/* pathName */
 };
 
-static emlrtRSInfo hc_emlrtRSI = { 237,/* lineNo */
+static emlrtRSInfo fc_emlrtRSI = { 237,/* lineNo */
   "AWGNChannelBase",                   /* fcnName */
   "C:\\Program Files\\MATLAB\\R2025b\\toolbox\\comm\\comm\\+comm\\+internal\\AWGNChannelBase.m"/* pathName */
 };
 
 /* Function Declarations */
-static void cgxe_mdl_start(InstanceStruct_otduqPw1TUwalbgDHtdM9C *moduleInstance);
-static void cgxe_mdl_initialize(InstanceStruct_otduqPw1TUwalbgDHtdM9C
+static void cgxe_mdl_start(InstanceStruct_3RzNf8pcd3Smj4HTKf4YfB *moduleInstance);
+static void cgxe_mdl_initialize(InstanceStruct_3RzNf8pcd3Smj4HTKf4YfB
   *moduleInstance);
-static void cgxe_mdl_outputs(InstanceStruct_otduqPw1TUwalbgDHtdM9C
+static void cgxe_mdl_outputs(InstanceStruct_3RzNf8pcd3Smj4HTKf4YfB
   *moduleInstance);
-static void cgxe_mdl_update(InstanceStruct_otduqPw1TUwalbgDHtdM9C
+static void cgxe_mdl_update(InstanceStruct_3RzNf8pcd3Smj4HTKf4YfB
   *moduleInstance);
-static void cgxe_mdl_derivative(InstanceStruct_otduqPw1TUwalbgDHtdM9C
+static void cgxe_mdl_derivative(InstanceStruct_3RzNf8pcd3Smj4HTKf4YfB
   *moduleInstance);
-static void cgxe_mdl_enable(InstanceStruct_otduqPw1TUwalbgDHtdM9C
+static void cgxe_mdl_enable(InstanceStruct_3RzNf8pcd3Smj4HTKf4YfB
   *moduleInstance);
-static void cgxe_mdl_disable(InstanceStruct_otduqPw1TUwalbgDHtdM9C
+static void cgxe_mdl_disable(InstanceStruct_3RzNf8pcd3Smj4HTKf4YfB
   *moduleInstance);
-static void cgxe_mdl_terminate(InstanceStruct_otduqPw1TUwalbgDHtdM9C
+static void cgxe_mdl_terminate(InstanceStruct_3RzNf8pcd3Smj4HTKf4YfB
   *moduleInstance);
 static void mw__internal__system__init__fcn
-  (InstanceStruct_otduqPw1TUwalbgDHtdM9C *moduleInstance);
-static void mw__internal__call__setup(InstanceStruct_otduqPw1TUwalbgDHtdM9C
-  *moduleInstance, const emlrtStack *sp, real_T EbNo, real_T SignalPower);
-static void AWGNChannelBase_set_EbNo(const emlrtStack *sp,
+  (InstanceStruct_3RzNf8pcd3Smj4HTKf4YfB *moduleInstance);
+static void mw__internal__call__setup(InstanceStruct_3RzNf8pcd3Smj4HTKf4YfB
+  *moduleInstance, const emlrtStack *sp, real_T SNR, real_T SignalPower);
+static void AWGNChannelBase_set_SNR(const emlrtStack *sp,
   comm_internal_AWGNChannel *obj, real_T val);
 static void AWGNChannelBase_set_SignalPower(const emlrtStack *sp,
   comm_internal_AWGNChannel *obj, real_T val);
 static void validateattributes(const emlrtStack *sp, real_T a);
-static real_T maximum(real_T x[4]);
 static void AWGNChannelBase_getStandardDeviation(const emlrtStack *sp,
   comm_internal_AWGNChannel *obj);
 static void AWGNChannelBase_setupImpl(const emlrtStack *sp,
   comm_internal_AWGNChannel *obj);
-static void rng(InstanceStruct_otduqPw1TUwalbgDHtdM9C *moduleInstance, const
+static void rng(InstanceStruct_3RzNf8pcd3Smj4HTKf4YfB *moduleInstance, const
                 emlrtStack *sp);
 static real_T now(void);
-static void mw__internal__call__reset(InstanceStruct_otduqPw1TUwalbgDHtdM9C
-  *moduleInstance, const emlrtStack *sp, real_T EbNo, real_T SignalPower);
-static void mw__internal__call__step(InstanceStruct_otduqPw1TUwalbgDHtdM9C
-  *moduleInstance, const emlrtStack *sp, real_T EbNo, real_T SignalPower,
-  creal_T b_u0[13416], creal_T c_y0[13416]);
-static void AWGNChannelBase_stepImpl(InstanceStruct_otduqPw1TUwalbgDHtdM9C
-  *moduleInstance, const emlrtStack *sp, comm_internal_AWGNChannel *obj, creal_T
-  x[13416], creal_T y[13416]);
-static void complexLike(InstanceStruct_otduqPw1TUwalbgDHtdM9C *moduleInstance,
-  const emlrtStack *sp, creal_T r[13416]);
-static void eml_rand_mcg16807_stateful(InstanceStruct_otduqPw1TUwalbgDHtdM9C
-  *moduleInstance, creal_T r[13416]);
+static void mw__internal__call__reset(InstanceStruct_3RzNf8pcd3Smj4HTKf4YfB
+  *moduleInstance, const emlrtStack *sp, real_T SNR, real_T SignalPower);
+static void mw__internal__call__step(InstanceStruct_3RzNf8pcd3Smj4HTKf4YfB
+  *moduleInstance, const emlrtStack *sp, real_T SNR, real_T SignalPower, real_T
+  b_u0[3354], real_T c_y0[3354]);
+static void AWGNChannelBase_stepImpl(InstanceStruct_3RzNf8pcd3Smj4HTKf4YfB
+  *moduleInstance, const emlrtStack *sp, comm_internal_AWGNChannel *obj, real_T
+  x[3354], real_T y[3354]);
+static void randn(InstanceStruct_3RzNf8pcd3Smj4HTKf4YfB *moduleInstance, const
+                  emlrtStack *sp, real_T r[3354]);
+static void eml_rand_mcg16807_stateful(InstanceStruct_3RzNf8pcd3Smj4HTKf4YfB
+  *moduleInstance, real_T r[3354]);
 static void genrandu(uint32_T s, uint32_T *e_state, real_T *r);
-static void eml_rand_shr3cong_stateful(InstanceStruct_otduqPw1TUwalbgDHtdM9C
-  *moduleInstance, creal_T r[13416]);
-static void eml_rand_mt19937ar_stateful(InstanceStruct_otduqPw1TUwalbgDHtdM9C
-  *moduleInstance, const emlrtStack *sp, creal_T r[13416]);
-static const mxArray *emlrt_marshallOut(InstanceStruct_otduqPw1TUwalbgDHtdM9C
+static const mxArray *emlrt_marshallOut(InstanceStruct_3RzNf8pcd3Smj4HTKf4YfB
   *moduleInstance);
 static const mxArray *b_emlrt_marshallOut(const uint32_T u[2]);
 static const mxArray *cgxe_mdl_get_sim_state
-  (InstanceStruct_otduqPw1TUwalbgDHtdM9C *moduleInstance);
-static void emlrt_marshallIn(InstanceStruct_otduqPw1TUwalbgDHtdM9C
+  (InstanceStruct_3RzNf8pcd3Smj4HTKf4YfB *moduleInstance);
+static void emlrt_marshallIn(InstanceStruct_3RzNf8pcd3Smj4HTKf4YfB
   *moduleInstance, const emlrtStack *sp, const mxArray *u);
 static uint32_T b_emlrt_marshallIn(const emlrtStack *sp, const mxArray *nullptr,
   const char_T *identifier);
@@ -465,7 +450,7 @@ static void n_emlrt_marshallIn(const emlrtStack *sp, const mxArray *u, const
   emlrtMsgIdentifier *parentId, uint32_T y[8]);
 static real_T o_emlrt_marshallIn(const emlrtStack *sp, const mxArray *u, const
   emlrtMsgIdentifier *parentId);
-static void cgxe_mdl_set_sim_state(InstanceStruct_otduqPw1TUwalbgDHtdM9C
+static void cgxe_mdl_set_sim_state(InstanceStruct_3RzNf8pcd3Smj4HTKf4YfB
   *moduleInstance, const mxArray *st);
 static const mxArray *message(const emlrtStack *sp, const mxArray *m1, const
   mxArray *m2, emlrtMCInfo *location);
@@ -489,34 +474,34 @@ static void u_emlrt_marshallIn(const emlrtStack *sp, const mxArray *src, const
   emlrtMsgIdentifier *msgId, uint32_T ret[8]);
 static real_T v_emlrt_marshallIn(const emlrtStack *sp, const mxArray *src, const
   emlrtMsgIdentifier *msgId);
-static real_T genrandn(uint32_T e_state[2]);
+static real_T eml_rand_shr3cong(uint32_T e_state[2]);
 static real_T eml_rand_mt19937ar(const emlrtStack *sp, uint32_T e_state[625]);
 static void genrand_uint32_vector(uint32_T mt[625], uint32_T u[2]);
 static real_T b_genrandu(const emlrtStack *sp, uint32_T mt[625]);
-static void init_simulink_io_address(InstanceStruct_otduqPw1TUwalbgDHtdM9C
+static void init_simulink_io_address(InstanceStruct_3RzNf8pcd3Smj4HTKf4YfB
   *moduleInstance);
 
 /* Function Definitions */
-static void cgxe_mdl_start(InstanceStruct_otduqPw1TUwalbgDHtdM9C *moduleInstance)
+static void cgxe_mdl_start(InstanceStruct_3RzNf8pcd3Smj4HTKf4YfB *moduleInstance)
 {
   emlrtStack st = { NULL,              /* site */
     NULL,                              /* tls */
     NULL                               /* prev */
   };
 
-  real_T *EbNo;
+  real_T *SNR;
   real_T *SignalPower;
   init_simulink_io_address(moduleInstance);
   SignalPower = (real_T *)cgxertGetRunTimeParamInfoData(moduleInstance->S, 1);
-  EbNo = (real_T *)cgxertGetRunTimeParamInfoData(moduleInstance->S, 0);
+  SNR = (real_T *)cgxertGetRunTimeParamInfoData(moduleInstance->S, 0);
   st.tls = moduleInstance->emlrtRootTLSGlobal;
   cgxertSetGcb(moduleInstance->S, -1, -1);
   mw__internal__system__init__fcn(moduleInstance);
-  mw__internal__call__setup(moduleInstance, &st, *EbNo, *SignalPower);
+  mw__internal__call__setup(moduleInstance, &st, *SNR, *SignalPower);
   cgxertRestoreGcb(moduleInstance->S, -1, -1);
 }
 
-static void cgxe_mdl_initialize(InstanceStruct_otduqPw1TUwalbgDHtdM9C
+static void cgxe_mdl_initialize(InstanceStruct_3RzNf8pcd3Smj4HTKf4YfB
   *moduleInstance)
 {
   emlrtStack st = { NULL,              /* site */
@@ -524,19 +509,19 @@ static void cgxe_mdl_initialize(InstanceStruct_otduqPw1TUwalbgDHtdM9C
     NULL                               /* prev */
   };
 
-  real_T *EbNo;
+  real_T *SNR;
   real_T *SignalPower;
   SignalPower = (real_T *)cgxertGetRunTimeParamInfoData(moduleInstance->S, 1);
-  EbNo = (real_T *)cgxertGetRunTimeParamInfoData(moduleInstance->S, 0);
+  SNR = (real_T *)cgxertGetRunTimeParamInfoData(moduleInstance->S, 0);
   st.tls = moduleInstance->emlrtRootTLSGlobal;
   emlrtLicenseCheckR2022a(&st, "EMLRT:runTime:MexFunctionNeedsLicense",
     "communication_toolbox", 2);
   cgxertSetGcb(moduleInstance->S, -1, -1);
-  mw__internal__call__reset(moduleInstance, &st, *EbNo, *SignalPower);
+  mw__internal__call__reset(moduleInstance, &st, *SNR, *SignalPower);
   cgxertRestoreGcb(moduleInstance->S, -1, -1);
 }
 
-static void cgxe_mdl_outputs(InstanceStruct_otduqPw1TUwalbgDHtdM9C
+static void cgxe_mdl_outputs(InstanceStruct_3RzNf8pcd3Smj4HTKf4YfB
   *moduleInstance)
 {
   emlrtStack st = { NULL,              /* site */
@@ -544,42 +529,42 @@ static void cgxe_mdl_outputs(InstanceStruct_otduqPw1TUwalbgDHtdM9C
     NULL                               /* prev */
   };
 
-  real_T *EbNo;
+  real_T *SNR;
   real_T *SignalPower;
   SignalPower = (real_T *)cgxertGetRunTimeParamInfoData(moduleInstance->S, 1);
-  EbNo = (real_T *)cgxertGetRunTimeParamInfoData(moduleInstance->S, 0);
+  SNR = (real_T *)cgxertGetRunTimeParamInfoData(moduleInstance->S, 0);
   st.tls = moduleInstance->emlrtRootTLSGlobal;
   cgxertSetGcb(moduleInstance->S, -1, -1);
-  mw__internal__call__step(moduleInstance, &st, *EbNo, *SignalPower,
+  mw__internal__call__step(moduleInstance, &st, *SNR, *SignalPower,
     *moduleInstance->u0, *moduleInstance->b_y0);
   cgxertRestoreGcb(moduleInstance->S, -1, -1);
 }
 
-static void cgxe_mdl_update(InstanceStruct_otduqPw1TUwalbgDHtdM9C
+static void cgxe_mdl_update(InstanceStruct_3RzNf8pcd3Smj4HTKf4YfB
   *moduleInstance)
 {
   (void)moduleInstance;
 }
 
-static void cgxe_mdl_derivative(InstanceStruct_otduqPw1TUwalbgDHtdM9C
+static void cgxe_mdl_derivative(InstanceStruct_3RzNf8pcd3Smj4HTKf4YfB
   *moduleInstance)
 {
   (void)moduleInstance;
 }
 
-static void cgxe_mdl_enable(InstanceStruct_otduqPw1TUwalbgDHtdM9C
+static void cgxe_mdl_enable(InstanceStruct_3RzNf8pcd3Smj4HTKf4YfB
   *moduleInstance)
 {
   (void)moduleInstance;
 }
 
-static void cgxe_mdl_disable(InstanceStruct_otduqPw1TUwalbgDHtdM9C
+static void cgxe_mdl_disable(InstanceStruct_3RzNf8pcd3Smj4HTKf4YfB
   *moduleInstance)
 {
   (void)moduleInstance;
 }
 
-static void cgxe_mdl_terminate(InstanceStruct_otduqPw1TUwalbgDHtdM9C
+static void cgxe_mdl_terminate(InstanceStruct_3RzNf8pcd3Smj4HTKf4YfB
   *moduleInstance)
 {
   cgxertSetGcb(moduleInstance->S, -1, -1);
@@ -587,7 +572,7 @@ static void cgxe_mdl_terminate(InstanceStruct_otduqPw1TUwalbgDHtdM9C
 }
 
 static void mw__internal__system__init__fcn
-  (InstanceStruct_otduqPw1TUwalbgDHtdM9C *moduleInstance)
+  (InstanceStruct_3RzNf8pcd3Smj4HTKf4YfB *moduleInstance)
 {
   static uint32_T uv[625] = { 5489U, 1301868182U, 2938499221U, 2950281878U,
     1875628136U, 751856242U, 944701696U, 2243192071U, 694061057U, 219885934U,
@@ -728,8 +713,8 @@ static void mw__internal__system__init__fcn
   moduleInstance->d_state_not_empty = true;
 }
 
-static void mw__internal__call__setup(InstanceStruct_otduqPw1TUwalbgDHtdM9C
-  *moduleInstance, const emlrtStack *sp, real_T EbNo, real_T SignalPower)
+static void mw__internal__call__setup(InstanceStruct_3RzNf8pcd3Smj4HTKf4YfB
+  *moduleInstance, const emlrtStack *sp, real_T SNR, real_T SignalPower)
 {
   static const int32_T iv[2] = { 1, 51 };
 
@@ -741,7 +726,7 @@ static void mw__internal__call__setup(InstanceStruct_otduqPw1TUwalbgDHtdM9C
 
   static const int32_T iv5[2] = { 1, 44 };
 
-  static int16_T iv1[8] = { 13416, 1, 1, 1, 1, 1, 1, 1 };
+  static int16_T iv1[8] = { 3354, 1, 1, 1, 1, 1, 1, 1 };
 
   static char_T b_u[51] = { 'M', 'A', 'T', 'L', 'A', 'B', ':', 's', 'y', 's',
     't', 'e', 'm', ':', 'm', 'e', 't', 'h', 'o', 'd', 'C', 'a', 'l', 'l', 'e',
@@ -805,7 +790,7 @@ static void mw__internal__call__setup(InstanceStruct_otduqPw1TUwalbgDHtdM9C
     }
 
     st.site = &h_emlrtRSI;
-    AWGNChannelBase_set_EbNo(&st, &moduleInstance->sysobj, EbNo);
+    AWGNChannelBase_set_SNR(&st, &moduleInstance->sysobj, SNR);
     st.site = &i_emlrtRSI;
     obj = &moduleInstance->sysobj;
     b_st.site = &e_emlrtRSI;
@@ -817,10 +802,9 @@ static void mw__internal__call__setup(InstanceStruct_otduqPw1TUwalbgDHtdM9C
 
     st.site = &i_emlrtRSI;
     AWGNChannelBase_set_SignalPower(&st, &moduleInstance->sysobj, SignalPower);
-    st.site = &j_emlrtRSI;
   }
 
-  st.site = &k_emlrtRSI;
+  st.site = &j_emlrtRSI;
   obj = &moduleInstance->sysobj;
   if (obj->isInitialized != 0) {
     for (i = 0; i < 51; i++) {
@@ -862,11 +846,11 @@ static void mw__internal__call__setup(InstanceStruct_otduqPw1TUwalbgDHtdM9C
   b_obj->inputVarSize[0] = varSizes[0];
   b_st.site = &f_emlrtRSI;
   b_obj = obj;
-  c_st.site = &o_emlrtRSI;
+  c_st.site = &n_emlrtRSI;
   validateattributes(&c_st, b_obj->Seed);
-  c_st.site = &p_emlrtRSI;
+  c_st.site = &o_emlrtRSI;
   AWGNChannelBase_setupImpl(&c_st, b_obj);
-  c_st.site = &q_emlrtRSI;
+  c_st.site = &p_emlrtRSI;
   rng(moduleInstance, &c_st);
   b_st.site = &f_emlrtRSI;
   b_obj = obj;
@@ -895,14 +879,14 @@ static void mw__internal__call__setup(InstanceStruct_otduqPw1TUwalbgDHtdM9C
   obj->TunablePropsChanged = false;
 }
 
-static void AWGNChannelBase_set_EbNo(const emlrtStack *sp,
+static void AWGNChannelBase_set_SNR(const emlrtStack *sp,
   comm_internal_AWGNChannel *obj, real_T val)
 {
   static const int32_T iv[2] = { 1, 21 };
 
   static const int32_T iv1[2] = { 1, 46 };
 
-  static const int32_T iv2[2] = { 1, 4 };
+  static const int32_T iv2[2] = { 1, 3 };
 
   static char_T d_u[46] = { 'C', 'o', 'd', 'e', 'r', ':', 't', 'o', 'o', 'l',
     'b', 'o', 'x', ':', 'V', 'a', 'l', 'i', 'd', 'a', 't', 'e', 'a', 't', 't',
@@ -912,7 +896,7 @@ static void AWGNChannelBase_set_EbNo(const emlrtStack *sp,
   static char_T b_u[21] = { 'M', 'A', 'T', 'L', 'A', 'B', ':', 'e', 'x', 'p',
     'e', 'c', 't', 'e', 'd', 'N', 'o', 'n', 'N', 'a', 'N' };
 
-  static char_T f_u[4] = { 'E', 'b', 'N', 'o' };
+  static char_T f_u[3] = { 'S', 'N', 'R' };
 
   emlrtStack b_st;
   emlrtStack c_st;
@@ -924,7 +908,7 @@ static void AWGNChannelBase_set_EbNo(const emlrtStack *sp,
   int32_T i;
   char_T c_u[46];
   char_T u[21];
-  char_T e_u[4];
+  char_T e_u[3];
   boolean_T p;
   st.prev = sp;
   st.tls = sp->tls;
@@ -932,8 +916,8 @@ static void AWGNChannelBase_set_EbNo(const emlrtStack *sp,
   b_st.tls = st.tls;
   c_st.prev = &b_st;
   c_st.tls = b_st.tls;
-  st.site = &l_emlrtRSI;
-  b_st.site = &m_emlrtRSI;
+  st.site = &k_emlrtRSI;
+  b_st.site = &l_emlrtRSI;
   p = true;
   if (muDoubleScalarIsNaN(val)) {
     p = false;
@@ -956,20 +940,20 @@ static void AWGNChannelBase_set_EbNo(const emlrtStack *sp,
     m = emlrtCreateCharArray(2, &iv1[0]);
     emlrtInitCharArrayR2013a(&b_st, 46, m, &c_u[0]);
     emlrtAssign(&b_y, m);
-    for (i = 0; i < 4; i++) {
+    for (i = 0; i < 3; i++) {
       e_u[i] = f_u[i];
     }
 
     c_y = NULL;
     m = emlrtCreateCharArray(2, &iv2[0]);
-    emlrtInitCharArrayR2013a(&b_st, 4, m, &e_u[0]);
+    emlrtInitCharArrayR2013a(&b_st, 3, m, &e_u[0]);
     emlrtAssign(&c_y, m);
-    c_st.site = &bc_emlrtRSI;
+    c_st.site = &yb_emlrtRSI;
     error(&c_st, y, getString(&c_st, message(&c_st, b_y, c_y, &emlrtMCI),
            &emlrtMCI), &emlrtMCI);
   }
 
-  obj->EbNo = val;
+  obj->SNR = val;
 }
 
 static void AWGNChannelBase_set_SignalPower(const emlrtStack *sp,
@@ -1046,8 +1030,8 @@ static void AWGNChannelBase_set_SignalPower(const emlrtStack *sp,
   b_st.tls = st.tls;
   c_st.prev = &b_st;
   c_st.tls = b_st.tls;
-  st.site = &n_emlrtRSI;
-  b_st.site = &m_emlrtRSI;
+  st.site = &m_emlrtRSI;
+  b_st.site = &l_emlrtRSI;
   p = true;
   if (val <= 0.0) {
     p = false;
@@ -1078,12 +1062,12 @@ static void AWGNChannelBase_set_SignalPower(const emlrtStack *sp,
     m = emlrtCreateCharArray(2, &iv5[0]);
     emlrtInitCharArrayR2013a(&b_st, 11, m, &h_u[0]);
     emlrtAssign(&f_y, m);
-    c_st.site = &cc_emlrtRSI;
+    c_st.site = &ac_emlrtRSI;
     error(&c_st, y, getString(&c_st, message(&c_st, c_y, f_y, &b_emlrtMCI),
            &b_emlrtMCI), &b_emlrtMCI);
   }
 
-  b_st.site = &m_emlrtRSI;
+  b_st.site = &l_emlrtRSI;
   p = true;
   if (muDoubleScalarIsNaN(val)) {
     p = false;
@@ -1114,12 +1098,12 @@ static void AWGNChannelBase_set_SignalPower(const emlrtStack *sp,
     m = emlrtCreateCharArray(2, &iv7[0]);
     emlrtInitCharArrayR2013a(&b_st, 11, m, &h_u[0]);
     emlrtAssign(&h_y, m);
-    c_st.site = &bc_emlrtRSI;
+    c_st.site = &yb_emlrtRSI;
     error(&c_st, b_y, getString(&c_st, message(&c_st, e_y, h_y, &emlrtMCI),
            &emlrtMCI), &emlrtMCI);
   }
 
-  b_st.site = &m_emlrtRSI;
+  b_st.site = &l_emlrtRSI;
   p = true;
   if ((!!muDoubleScalarIsInf(val)) || (!!muDoubleScalarIsNaN(val))) {
     p = false;
@@ -1150,7 +1134,7 @@ static void AWGNChannelBase_set_SignalPower(const emlrtStack *sp,
     m = emlrtCreateCharArray(2, &iv8[0]);
     emlrtInitCharArrayR2013a(&b_st, 11, m, &h_u[0]);
     emlrtAssign(&i_y, m);
-    c_st.site = &xb_emlrtRSI;
+    c_st.site = &vb_emlrtRSI;
     error(&c_st, d_y, getString(&c_st, message(&c_st, g_y, i_y, &c_emlrtMCI),
            &c_emlrtMCI), &c_emlrtMCI);
   }
@@ -1236,7 +1220,7 @@ static void validateattributes(const emlrtStack *sp, real_T a)
   st.tls = sp->tls;
   b_st.prev = &st;
   b_st.tls = st.tls;
-  st.site = &m_emlrtRSI;
+  st.site = &l_emlrtRSI;
   p = true;
   if ((!muDoubleScalarIsInf(a)) && (!muDoubleScalarIsNaN(a)) &&
       (muDoubleScalarFloor(a) == a)) {
@@ -1269,12 +1253,12 @@ static void validateattributes(const emlrtStack *sp, real_T a)
     m = emlrtCreateCharArray(2, &iv5[0]);
     emlrtInitCharArrayR2013a(&st, 4, m, &i_u[0]);
     emlrtAssign(&f_y, m);
-    b_st.site = &ac_emlrtRSI;
+    b_st.site = &xb_emlrtRSI;
     error(&b_st, y, getString(&b_st, message(&b_st, c_y, f_y, &e_emlrtMCI),
            &e_emlrtMCI), &e_emlrtMCI);
   }
 
-  st.site = &m_emlrtRSI;
+  st.site = &l_emlrtRSI;
   p = true;
   if (a < 0.0) {
     p = false;
@@ -1305,12 +1289,12 @@ static void validateattributes(const emlrtStack *sp, real_T a)
     m = emlrtCreateCharArray(2, &iv7[0]);
     emlrtInitCharArrayR2013a(&st, 4, m, &i_u[0]);
     emlrtAssign(&h_y, m);
-    b_st.site = &yb_emlrtRSI;
+    b_st.site = &wb_emlrtRSI;
     error(&b_st, b_y, getString(&b_st, message(&b_st, e_y, h_y, &f_emlrtMCI),
            &f_emlrtMCI), &f_emlrtMCI);
   }
 
-  st.site = &m_emlrtRSI;
+  st.site = &l_emlrtRSI;
   p = true;
   if ((!!muDoubleScalarIsInf(a)) || (!!muDoubleScalarIsNaN(a))) {
     p = false;
@@ -1341,47 +1325,10 @@ static void validateattributes(const emlrtStack *sp, real_T a)
     m = emlrtCreateCharArray(2, &iv8[0]);
     emlrtInitCharArrayR2013a(&st, 4, m, &i_u[0]);
     emlrtAssign(&i_y, m);
-    b_st.site = &xb_emlrtRSI;
+    b_st.site = &vb_emlrtRSI;
     error(&b_st, d_y, getString(&b_st, message(&b_st, g_y, i_y, &c_emlrtMCI),
            &c_emlrtMCI), &c_emlrtMCI);
   }
-}
-
-static real_T maximum(real_T x[4])
-{
-  real_T ex;
-  int32_T idx;
-  int32_T k;
-  boolean_T exitg1;
-  if (!muDoubleScalarIsNaN(x[0])) {
-    idx = 1;
-  } else {
-    idx = 0;
-    k = 2;
-    exitg1 = false;
-    while ((!exitg1) && (k < 5)) {
-      if (!muDoubleScalarIsNaN(x[k - 1])) {
-        idx = k;
-        exitg1 = true;
-      } else {
-        k++;
-      }
-    }
-  }
-
-  if (idx == 0) {
-    ex = x[0];
-  } else {
-    ex = x[idx - 1];
-    idx++;
-    for (k = idx; k < 5; k++) {
-      if (ex < x[k - 1]) {
-        ex = x[k - 1];
-      }
-    }
-  }
-
-  return ex;
 }
 
 static void AWGNChannelBase_getStandardDeviation(const emlrtStack *sp,
@@ -1413,9 +1360,9 @@ static void AWGNChannelBase_getStandardDeviation(const emlrtStack *sp,
   st.tls = sp->tls;
   b_st.prev = &st;
   b_st.tls = st.tls;
-  b_std = obj->EbNo / 10.0;
-  st.site = &r_emlrtRSI;
-  b_std = obj->SignalPower * 13416.0 / (muDoubleScalarPower(10.0, b_std) * 2.0);
+  b_std = obj->SNR / 10.0;
+  st.site = &q_emlrtRSI;
+  b_std = obj->SignalPower / muDoubleScalarPower(10.0, b_std);
   if (b_std < 0.0) {
     for (i = 0; i < 30; i++) {
       u[i] = b_u[i];
@@ -1441,7 +1388,7 @@ static void AWGNChannelBase_getStandardDeviation(const emlrtStack *sp,
     m = emlrtCreateCharArray(2, &iv2[0]);
     emlrtInitCharArrayR2013a(&st, 4, m, &c_u[0]);
     emlrtAssign(&c_y, m);
-    b_st.site = &wb_emlrtRSI;
+    b_st.site = &ub_emlrtRSI;
     error(&b_st, y, getString(&b_st, message(&b_st, b_y, c_y, &h_emlrtMCI),
            &h_emlrtMCI), &h_emlrtMCI);
   }
@@ -1467,17 +1414,12 @@ static void AWGNChannelBase_setupImpl(const emlrtStack *sp,
   const mxArray *b_y;
   const mxArray *m;
   const mxArray *y;
-  real_T dv[4];
   int32_T i;
   char_T u[49];
   st.prev = sp;
   st.tls = sp->tls;
-  for (i = 0; i < 4; i++) {
-    dv[i] = 1.0;
-  }
-
-  obj->pNumChanFromProp = maximum(dv);
-  st.site = &s_emlrtRSI;
+  obj->pNumChanFromProp = 1.0;
+  st.site = &r_emlrtRSI;
   AWGNChannelBase_getStandardDeviation(&st, obj);
   if ((obj->pNumChanFromProp != 1.0) && (obj->pNumChanFromProp != 1.0)) {
     for (i = 0; i < 49; i++) {
@@ -1496,7 +1438,7 @@ static void AWGNChannelBase_setupImpl(const emlrtStack *sp,
     m = emlrtCreateCharArray(2, &iv1[0]);
     emlrtInitCharArrayR2013a((emlrtConstCTX)sp, 49, m, &u[0]);
     emlrtAssign(&b_y, m);
-    st.site = &hc_emlrtRSI;
+    st.site = &fc_emlrtRSI;
     error(&st, y, getString(&st, b_message(&st, b_y, &i_emlrtMCI), &i_emlrtMCI),
           &i_emlrtMCI);
   }
@@ -1505,7 +1447,7 @@ static void AWGNChannelBase_setupImpl(const emlrtStack *sp,
   obj->pIsVarChannel = false;
 }
 
-static void rng(InstanceStruct_otduqPw1TUwalbgDHtdM9C *moduleInstance, const
+static void rng(InstanceStruct_3RzNf8pcd3Smj4HTKf4YfB *moduleInstance, const
                 emlrtStack *sp)
 {
   static const int32_T iv[2] = { 1, 22 };
@@ -1531,8 +1473,8 @@ static void rng(InstanceStruct_otduqPw1TUwalbgDHtdM9C *moduleInstance, const
   char_T u[22];
   st.prev = sp;
   st.tls = sp->tls;
-  st.site = &t_emlrtRSI;
-  b_st.site = &x_emlrtRSI;
+  st.site = &s_emlrtRSI;
+  b_st.site = &w_emlrtRSI;
   s0 = now() * 8.64E+6;
   s0 = muDoubleScalarFloor(s0);
   if (muDoubleScalarIsNaN(s0) || muDoubleScalarIsInf(s0)) {
@@ -1546,16 +1488,16 @@ static void rng(InstanceStruct_otduqPw1TUwalbgDHtdM9C *moduleInstance, const
     }
   }
 
-  b_st.site = &y_emlrtRSI;
+  b_st.site = &x_emlrtRSI;
   eTime = time(NULL);
   prevEpochTime = (int32_T)eTime;
   do {
     exitg1 = 0;
-    b_st.site = &ab_emlrtRSI;
+    b_st.site = &y_emlrtRSI;
     eTime = time(NULL);
     t = (int32_T)eTime;
     if (t <= prevEpochTime + 1) {
-      b_st.site = &bb_emlrtRSI;
+      b_st.site = &ab_emlrtRSI;
       s0 = now() * 8.64E+6;
       s0 = muDoubleScalarFloor(s0);
       if (muDoubleScalarIsNaN(s0) || muDoubleScalarIsInf(s0)) {
@@ -1579,7 +1521,7 @@ static void rng(InstanceStruct_otduqPw1TUwalbgDHtdM9C *moduleInstance, const
 
   moduleInstance->seed = (uint32_T)s;
   if (moduleInstance->method == 7U) {
-    st.site = &u_emlrtRSI;
+    st.site = &t_emlrtRSI;
     r = moduleInstance->seed;
     moduleInstance->state[0] = moduleInstance->seed;
     for (prevEpochTime = 0; prevEpochTime < 623; prevEpochTime++) {
@@ -1589,14 +1531,14 @@ static void rng(InstanceStruct_otduqPw1TUwalbgDHtdM9C *moduleInstance, const
 
     moduleInstance->state[624] = 624U;
   } else if (moduleInstance->method == 5U) {
-    st.site = &v_emlrtRSI;
+    st.site = &u_emlrtRSI;
     moduleInstance->b_state[0] = 362436069U;
     moduleInstance->b_state[1] = moduleInstance->seed;
     if (moduleInstance->b_state[1] == 0U) {
       moduleInstance->b_state[1] = 521288629U;
     }
   } else if (moduleInstance->method == 4U) {
-    st.site = &w_emlrtRSI;
+    st.site = &v_emlrtRSI;
     r = moduleInstance->seed >> 16U;
     b_t = moduleInstance->seed & 32768U;
     moduleInstance->c_state = r << 16U;
@@ -1627,7 +1569,7 @@ static void rng(InstanceStruct_otduqPw1TUwalbgDHtdM9C *moduleInstance, const
     m = emlrtCreateCharArray(2, &iv1[0]);
     emlrtInitCharArrayR2013a((emlrtConstCTX)sp, 22, m, &u[0]);
     emlrtAssign(&b_y, m);
-    st.site = &gc_emlrtRSI;
+    st.site = &ec_emlrtRSI;
     error(&st, y, getString(&st, b_message(&st, b_y, &j_emlrtMCI), &j_emlrtMCI),
           &j_emlrtMCI);
   }
@@ -1705,8 +1647,8 @@ static real_T now(void)
   return y;
 }
 
-static void mw__internal__call__reset(InstanceStruct_otduqPw1TUwalbgDHtdM9C
-  *moduleInstance, const emlrtStack *sp, real_T EbNo, real_T SignalPower)
+static void mw__internal__call__reset(InstanceStruct_3RzNf8pcd3Smj4HTKf4YfB
+  *moduleInstance, const emlrtStack *sp, real_T SNR, real_T SignalPower)
 {
   static const int32_T iv[2] = { 1, 45 };
 
@@ -1777,7 +1719,7 @@ static void mw__internal__call__reset(InstanceStruct_otduqPw1TUwalbgDHtdM9C
     }
 
     st.site = &h_emlrtRSI;
-    AWGNChannelBase_set_EbNo(&st, &moduleInstance->sysobj, EbNo);
+    AWGNChannelBase_set_SNR(&st, &moduleInstance->sysobj, SNR);
     st.site = &i_emlrtRSI;
     obj = &moduleInstance->sysobj;
     b_st.site = &e_emlrtRSI;
@@ -1789,10 +1731,9 @@ static void mw__internal__call__reset(InstanceStruct_otduqPw1TUwalbgDHtdM9C
 
     st.site = &i_emlrtRSI;
     AWGNChannelBase_set_SignalPower(&st, &moduleInstance->sysobj, SignalPower);
-    st.site = &j_emlrtRSI;
   }
 
-  st.site = &cb_emlrtRSI;
+  st.site = &bb_emlrtRSI;
   obj = &moduleInstance->sysobj;
   if (obj->isInitialized == 2) {
     for (i = 0; i < 45; i++) {
@@ -1849,9 +1790,9 @@ static void mw__internal__call__reset(InstanceStruct_otduqPw1TUwalbgDHtdM9C
   }
 }
 
-static void mw__internal__call__step(InstanceStruct_otduqPw1TUwalbgDHtdM9C
-  *moduleInstance, const emlrtStack *sp, real_T EbNo, real_T SignalPower,
-  creal_T b_u0[13416], creal_T c_y0[13416])
+static void mw__internal__call__step(InstanceStruct_3RzNf8pcd3Smj4HTKf4YfB
+  *moduleInstance, const emlrtStack *sp, real_T SNR, real_T SignalPower, real_T
+  b_u0[3354], real_T c_y0[3354])
 {
   static const int32_T iv[2] = { 1, 51 };
 
@@ -1867,7 +1808,7 @@ static void mw__internal__call__step(InstanceStruct_otduqPw1TUwalbgDHtdM9C
 
   static const int32_T iv6[2] = { 1, 44 };
 
-  static int16_T inSize[8] = { 13416, 1, 1, 1, 1, 1, 1, 1 };
+  static int16_T inSize[8] = { 3354, 1, 1, 1, 1, 1, 1, 1 };
 
   static char_T b_u[51] = { 'M', 'A', 'T', 'L', 'A', 'B', ':', 's', 'y', 's',
     't', 'e', 'm', ':', 'm', 'e', 't', 'h', 'o', 'd', 'C', 'a', 'l', 'l', 'e',
@@ -1899,7 +1840,6 @@ static void mw__internal__call__step(InstanceStruct_otduqPw1TUwalbgDHtdM9C
   const mxArray *g_y;
   const mxArray *m;
   const mxArray *y;
-  real_T dv[4];
   int32_T k;
   char_T u[51];
   char_T c_u[44];
@@ -1940,7 +1880,7 @@ static void mw__internal__call__step(InstanceStruct_otduqPw1TUwalbgDHtdM9C
     }
 
     st.site = &h_emlrtRSI;
-    AWGNChannelBase_set_EbNo(&st, &moduleInstance->sysobj, EbNo);
+    AWGNChannelBase_set_SNR(&st, &moduleInstance->sysobj, SNR);
     st.site = &i_emlrtRSI;
     obj = &moduleInstance->sysobj;
     b_st.site = &e_emlrtRSI;
@@ -1952,11 +1892,10 @@ static void mw__internal__call__step(InstanceStruct_otduqPw1TUwalbgDHtdM9C
 
     st.site = &i_emlrtRSI;
     AWGNChannelBase_set_SignalPower(&st, &moduleInstance->sysobj, SignalPower);
-    st.site = &j_emlrtRSI;
   }
 
-  if (moduleInstance->sysobj.EbNo != EbNo) {
-    st.site = &db_emlrtRSI;
+  if (moduleInstance->sysobj.SNR != SNR) {
+    st.site = &cb_emlrtRSI;
     obj = &moduleInstance->sysobj;
     b_st.site = &e_emlrtRSI;
     b_obj = obj;
@@ -1965,12 +1904,12 @@ static void mw__internal__call__step(InstanceStruct_otduqPw1TUwalbgDHtdM9C
       obj->TunablePropsChanged = true;
     }
 
-    st.site = &db_emlrtRSI;
-    AWGNChannelBase_set_EbNo(&st, &moduleInstance->sysobj, EbNo);
+    st.site = &cb_emlrtRSI;
+    AWGNChannelBase_set_SNR(&st, &moduleInstance->sysobj, SNR);
   }
 
   if (moduleInstance->sysobj.SignalPower != SignalPower) {
-    st.site = &eb_emlrtRSI;
+    st.site = &db_emlrtRSI;
     obj = &moduleInstance->sysobj;
     b_st.site = &e_emlrtRSI;
     b_obj = obj;
@@ -1979,11 +1918,11 @@ static void mw__internal__call__step(InstanceStruct_otduqPw1TUwalbgDHtdM9C
       obj->TunablePropsChanged = true;
     }
 
-    st.site = &eb_emlrtRSI;
+    st.site = &db_emlrtRSI;
     AWGNChannelBase_set_SignalPower(&st, &moduleInstance->sysobj, SignalPower);
   }
 
-  st.site = &fb_emlrtRSI;
+  st.site = &eb_emlrtRSI;
   obj = &moduleInstance->sysobj;
   if (obj->isInitialized != 1) {
     b_st.site = &f_emlrtRSI;
@@ -2029,11 +1968,11 @@ static void mw__internal__call__step(InstanceStruct_otduqPw1TUwalbgDHtdM9C
     c_obj->inputVarSize[0] = varSizes[0];
     d_st.site = &f_emlrtRSI;
     c_obj = b_obj;
-    e_st.site = &o_emlrtRSI;
+    e_st.site = &n_emlrtRSI;
     validateattributes(&e_st, c_obj->Seed);
-    e_st.site = &p_emlrtRSI;
+    e_st.site = &o_emlrtRSI;
     AWGNChannelBase_setupImpl(&e_st, c_obj);
-    e_st.site = &q_emlrtRSI;
+    e_st.site = &p_emlrtRSI;
     rng(moduleInstance, &e_st);
     d_st.site = &f_emlrtRSI;
     c_obj = b_obj;
@@ -2067,13 +2006,9 @@ static void mw__internal__call__step(InstanceStruct_otduqPw1TUwalbgDHtdM9C
   if (b_obj->TunablePropsChanged) {
     b_obj->TunablePropsChanged = false;
     c_st.site = &f_emlrtRSI;
-    d_st.site = &gb_emlrtRSI;
-    for (k = 0; k < 4; k++) {
-      dv[k] = 1.0;
-    }
-
-    b_obj->pNumChanFromProp = maximum(dv);
-    e_st.site = &hb_emlrtRSI;
+    d_st.site = &fb_emlrtRSI;
+    b_obj->pNumChanFromProp = 1.0;
+    e_st.site = &gb_emlrtRSI;
     AWGNChannelBase_getStandardDeviation(&e_st, b_obj);
   }
 
@@ -2119,9 +2054,9 @@ static void mw__internal__call__step(InstanceStruct_otduqPw1TUwalbgDHtdM9C
   }
 }
 
-static void AWGNChannelBase_stepImpl(InstanceStruct_otduqPw1TUwalbgDHtdM9C
-  *moduleInstance, const emlrtStack *sp, comm_internal_AWGNChannel *obj, creal_T
-  x[13416], creal_T y[13416])
+static void AWGNChannelBase_stepImpl(InstanceStruct_3RzNf8pcd3Smj4HTKf4YfB
+  *moduleInstance, const emlrtStack *sp, comm_internal_AWGNChannel *obj, real_T
+  x[3354], real_T y[3354])
 {
   static const int32_T iv[2] = { 1, 49 };
 
@@ -2141,15 +2076,16 @@ static void AWGNChannelBase_stepImpl(InstanceStruct_otduqPw1TUwalbgDHtdM9C
     'n', 'v', 'a', 'l', 'i', 'd', 'S', 'i', 'g', 'n', 'a', 'l', 'I', 'n', 'p',
     'u', 't', 'N', 'u', 'm', 'C', 'h', 'a', 'n' };
 
+  __m128d r;
+  __m128d r1;
   emlrtStack b_st;
   emlrtStack c_st;
   emlrtStack st;
   const mxArray *b_y;
   const mxArray *c_y;
+  const mxArray *d_y;
   const mxArray *e_y;
-  const mxArray *f_y;
   const mxArray *m;
-  creal_T d_y;
   real_T b_std;
   int32_T i;
   char_T b_u[53];
@@ -2175,12 +2111,12 @@ static void AWGNChannelBase_stepImpl(InstanceStruct_otduqPw1TUwalbgDHtdM9C
         b_u[i] = d_u[i];
       }
 
-      f_y = NULL;
+      e_y = NULL;
       m = emlrtCreateCharArray(2, &iv3[0]);
       emlrtInitCharArrayR2013a((emlrtConstCTX)sp, 53, m, &b_u[0]);
-      emlrtAssign(&f_y, m);
-      st.site = &ec_emlrtRSI;
-      error(&st, c_y, getString(&st, b_message(&st, f_y, &k_emlrtMCI),
+      emlrtAssign(&e_y, m);
+      st.site = &cc_emlrtRSI;
+      error(&st, c_y, getString(&st, b_message(&st, e_y, &k_emlrtMCI),
              &k_emlrtMCI), &k_emlrtMCI);
     }
 
@@ -2200,38 +2136,36 @@ static void AWGNChannelBase_stepImpl(InstanceStruct_otduqPw1TUwalbgDHtdM9C
       u[i] = c_u[i];
     }
 
-    e_y = NULL;
+    d_y = NULL;
     m = emlrtCreateCharArray(2, &iv2[0]);
     emlrtInitCharArrayR2013a((emlrtConstCTX)sp, 49, m, &u[0]);
-    emlrtAssign(&e_y, m);
-    st.site = &fc_emlrtRSI;
-    error(&st, b_y, getString(&st, b_message(&st, e_y, &l_emlrtMCI), &l_emlrtMCI),
+    emlrtAssign(&d_y, m);
+    st.site = &dc_emlrtRSI;
+    error(&st, b_y, getString(&st, b_message(&st, d_y, &l_emlrtMCI), &l_emlrtMCI),
           &l_emlrtMCI);
   }
 
   b_std = obj->pStd;
-  st.site = &ib_emlrtRSI;
-  b_st.site = &jb_emlrtRSI;
-  c_st.site = &kb_emlrtRSI;
-  complexLike(moduleInstance, &c_st, y);
-  for (i = 0; i < 13416; i++) {
-    d_y = y[i];
-    d_y.re = x[i].re + b_std * d_y.re;
-    d_y.im = x[i].im + b_std * d_y.im;
-    y[i] = d_y;
+  st.site = &hb_emlrtRSI;
+  b_st.site = &ib_emlrtRSI;
+  c_st.site = &jb_emlrtRSI;
+  randn(moduleInstance, &c_st, y);
+  for (i = 0; i <= 3352; i += 2) {
+    r = _mm_loadu_pd(&y[i]);
+    r1 = _mm_loadu_pd(&x[i]);
+    _mm_storeu_pd(&y[i], _mm_add_pd(r1, _mm_mul_pd(_mm_set1_pd(b_std), r)));
   }
 }
 
-static void complexLike(InstanceStruct_otduqPw1TUwalbgDHtdM9C *moduleInstance,
-  const emlrtStack *sp, creal_T r[13416])
+static void randn(InstanceStruct_3RzNf8pcd3Smj4HTKf4YfB *moduleInstance, const
+                  emlrtStack *sp, real_T r[3354])
 {
   emlrtStack b_st;
   emlrtStack c_st;
+  emlrtStack d_st;
   emlrtStack st;
-  creal_T d_r;
   real_T b_r;
-  real_T c_r;
-  real_T re;
+  real_T t;
   int32_T k;
   uint32_T e_state;
   uint32_T f_state;
@@ -2241,90 +2175,59 @@ static void complexLike(InstanceStruct_otduqPw1TUwalbgDHtdM9C *moduleInstance,
   b_st.tls = st.tls;
   c_st.prev = &b_st;
   c_st.tls = b_st.tls;
-  st.site = &lb_emlrtRSI;
+  d_st.prev = &c_st;
+  d_st.tls = c_st.tls;
+  st.site = &kb_emlrtRSI;
   if (moduleInstance->b_method == 0U) {
-    b_st.site = &mb_emlrtRSI;
+    b_st.site = &lb_emlrtRSI;
     if (moduleInstance->method == 4U) {
-      c_st.site = &nb_emlrtRSI;
+      c_st.site = &mb_emlrtRSI;
       eml_rand_mcg16807_stateful(moduleInstance, r);
     } else if (moduleInstance->method == 5U) {
-      c_st.site = &ob_emlrtRSI;
-      eml_rand_shr3cong_stateful(moduleInstance, r);
+      c_st.site = &nb_emlrtRSI;
+      for (k = 0; k < 3354; k++) {
+        b_r = eml_rand_shr3cong(moduleInstance->b_state);
+        r[k] = b_r;
+      }
     } else {
-      c_st.site = &pb_emlrtRSI;
-      eml_rand_mt19937ar_stateful(moduleInstance, &c_st, r);
+      c_st.site = &ob_emlrtRSI;
+      for (k = 0; k < 3354; k++) {
+        d_st.site = &pb_emlrtRSI;
+        b_r = eml_rand_mt19937ar(&d_st, moduleInstance->state);
+        r[k] = b_r;
+      }
     }
   } else if (moduleInstance->b_method == 4U) {
-    for (k = 0; k < 13416; k++) {
+    for (k = 0; k < 3354; k++) {
       e_state = moduleInstance->d_state[0];
       do {
         genrandu(e_state, &f_state, &b_r);
-        genrandu(f_state, &e_state, &re);
+        genrandu(f_state, &e_state, &t);
         b_r = 2.0 * b_r - 1.0;
-        re = 2.0 * re - 1.0;
-        re = re * re + b_r * b_r;
-      } while (!(re <= 1.0));
+        t = 2.0 * t - 1.0;
+        t = t * t + b_r * b_r;
+      } while (!(t <= 1.0));
 
-      b_r *= muDoubleScalarSqrt(-2.0 * muDoubleScalarLog(re) / re);
+      b_r *= muDoubleScalarSqrt(-2.0 * muDoubleScalarLog(t) / t);
       moduleInstance->d_state[0] = e_state;
-      e_state = moduleInstance->d_state[0];
-      do {
-        genrandu(e_state, &f_state, &c_r);
-        genrandu(f_state, &e_state, &re);
-        c_r = 2.0 * c_r - 1.0;
-        re = 2.0 * re - 1.0;
-        re = re * re + c_r * c_r;
-      } while (!(re <= 1.0));
-
-      c_r *= muDoubleScalarSqrt(-2.0 * muDoubleScalarLog(re) / re);
-      moduleInstance->d_state[0] = e_state;
-      r[k].re = b_r;
-      r[k].im = c_r;
-      if (r[k].im == 0.0) {
-        re = r[k].re / 1.4142135623730951;
-        b_r = 0.0;
-      } else if (r[k].re == 0.0) {
-        re = 0.0;
-        b_r = r[k].im / 1.4142135623730951;
-      } else {
-        re = r[k].re / 1.4142135623730951;
-        b_r = r[k].im / 1.4142135623730951;
-      }
-
-      r[k].re = re;
-      r[k].im = b_r;
+      r[k] = b_r;
     }
   } else {
-    for (k = 0; k < 13416; k++) {
-      b_r = genrandn(moduleInstance->d_state);
-      c_r = genrandn(moduleInstance->d_state);
-      if (c_r == 0.0) {
-        re = b_r / 1.4142135623730951;
-        b_r = 0.0;
-      } else if (b_r == 0.0) {
-        re = 0.0;
-        b_r = c_r / 1.4142135623730951;
-      } else {
-        re = b_r / 1.4142135623730951;
-        b_r = c_r / 1.4142135623730951;
-      }
-
-      d_r.re = re;
-      d_r.im = b_r;
-      r[k] = d_r;
+    for (k = 0; k < 3354; k++) {
+      b_r = eml_rand_shr3cong(moduleInstance->d_state);
+      r[k] = b_r;
     }
   }
 }
 
-static void eml_rand_mcg16807_stateful(InstanceStruct_otduqPw1TUwalbgDHtdM9C
-  *moduleInstance, creal_T r[13416])
+static void eml_rand_mcg16807_stateful(InstanceStruct_3RzNf8pcd3Smj4HTKf4YfB
+  *moduleInstance, real_T r[3354])
 {
   real_T b_r;
-  real_T c_r;
   real_T t;
   int32_T k;
   uint32_T e_state;
-  for (k = 0; k < 13416; k++) {
+  for (k = 0; k < 3354; k++) {
     do {
       genrandu(moduleInstance->c_state, &e_state, &b_r);
       genrandu(e_state, &moduleInstance->c_state, &t);
@@ -2334,30 +2237,7 @@ static void eml_rand_mcg16807_stateful(InstanceStruct_otduqPw1TUwalbgDHtdM9C
     } while (!(t <= 1.0));
 
     b_r *= muDoubleScalarSqrt(-2.0 * muDoubleScalarLog(t) / t);
-    do {
-      genrandu(moduleInstance->c_state, &e_state, &c_r);
-      genrandu(e_state, &moduleInstance->c_state, &t);
-      c_r = 2.0 * c_r - 1.0;
-      t = 2.0 * t - 1.0;
-      t = t * t + c_r * c_r;
-    } while (!(t <= 1.0));
-
-    c_r *= muDoubleScalarSqrt(-2.0 * muDoubleScalarLog(t) / t);
-    r[k].re = b_r;
-    r[k].im = c_r;
-    if (r[k].im == 0.0) {
-      b_r = r[k].re / 1.4142135623730951;
-      t = 0.0;
-    } else if (r[k].re == 0.0) {
-      b_r = 0.0;
-      t = r[k].im / 1.4142135623730951;
-    } else {
-      b_r = r[k].re / 1.4142135623730951;
-      t = r[k].im / 1.4142135623730951;
-    }
-
-    r[k].re = b_r;
-    r[k].im = t;
+    r[k] = b_r;
   }
 }
 
@@ -2377,73 +2257,7 @@ static void genrandu(uint32_T s, uint32_T *e_state, real_T *r)
   *r = (real_T)*e_state * 4.6566128752457969E-10;
 }
 
-static void eml_rand_shr3cong_stateful(InstanceStruct_otduqPw1TUwalbgDHtdM9C
-  *moduleInstance, creal_T r[13416])
-{
-  creal_T d_r;
-  real_T b_r;
-  real_T c_r;
-  real_T re;
-  int32_T k;
-  for (k = 0; k < 13416; k++) {
-    b_r = genrandn(moduleInstance->b_state);
-    c_r = genrandn(moduleInstance->b_state);
-    if (c_r == 0.0) {
-      re = b_r / 1.4142135623730951;
-      b_r = 0.0;
-    } else if (b_r == 0.0) {
-      re = 0.0;
-      b_r = c_r / 1.4142135623730951;
-    } else {
-      re = b_r / 1.4142135623730951;
-      b_r = c_r / 1.4142135623730951;
-    }
-
-    d_r.re = re;
-    d_r.im = b_r;
-    r[k] = d_r;
-  }
-}
-
-static void eml_rand_mt19937ar_stateful(InstanceStruct_otduqPw1TUwalbgDHtdM9C
-  *moduleInstance, const emlrtStack *sp, creal_T r[13416])
-{
-  emlrtStack st;
-  creal_T b_r;
-  real_T im;
-  real_T re;
-  int32_T k;
-  st.prev = sp;
-  st.tls = sp->tls;
-  for (k = 0; k < 13416; k++) {
-    st.site = &qb_emlrtRSI;
-    re = eml_rand_mt19937ar(&st, moduleInstance->state);
-    st.site = &rb_emlrtRSI;
-    im = eml_rand_mt19937ar(&st, moduleInstance->state);
-    r[k].re = re;
-    r[k].im = im;
-  }
-
-  for (k = 0; k < 13416; k++) {
-    b_r = r[k];
-    if (b_r.im == 0.0) {
-      re = b_r.re / 1.4142135623730951;
-      im = 0.0;
-    } else if (b_r.re == 0.0) {
-      re = 0.0;
-      im = b_r.im / 1.4142135623730951;
-    } else {
-      re = b_r.re / 1.4142135623730951;
-      im = b_r.im / 1.4142135623730951;
-    }
-
-    b_r.re = re;
-    b_r.im = im;
-    r[k] = b_r;
-  }
-}
-
-static const mxArray *emlrt_marshallOut(InstanceStruct_otduqPw1TUwalbgDHtdM9C
+static const mxArray *emlrt_marshallOut(InstanceStruct_3RzNf8pcd3Smj4HTKf4YfB
   *moduleInstance)
 {
   static const int32_T iv2[2] = { 1, 8 };
@@ -2451,7 +2265,7 @@ static const mxArray *emlrt_marshallOut(InstanceStruct_otduqPw1TUwalbgDHtdM9C
   static const int32_T iv[1] = { 625 };
 
   static const char_T *sv[10] = { "isInitialized", "TunablePropsChanged",
-    "inputVarSize", "EbNo", "SignalPower", "pFirstInputNumChan", "pIsVarChannel",
+    "inputVarSize", "SNR", "SignalPower", "pFirstInputNumChan", "pIsVarChannel",
     "pNumChanFromProp", "pStd", "Seed" };
 
   static const char_T *sv1[1] = { "f1" };
@@ -2588,11 +2402,11 @@ static const mxArray *emlrt_marshallOut(InstanceStruct_otduqPw1TUwalbgDHtdM9C
   emlrtAssign(&r_y, m);
   emlrtSetFieldR2017b(q_y, 0, "f1", r_y, 0);
   emlrtSetFieldR2017b(n_y, 0, "inputVarSize", q_y, 2);
-  e_u = moduleInstance->sysobj.EbNo;
+  e_u = moduleInstance->sysobj.SNR;
   s_y = NULL;
   m = emlrtCreateDoubleScalar(e_u);
   emlrtAssign(&s_y, m);
-  emlrtSetFieldR2017b(n_y, 0, "EbNo", s_y, 3);
+  emlrtSetFieldR2017b(n_y, 0, "SNR", s_y, 3);
   e_u = moduleInstance->sysobj.SignalPower;
   t_y = NULL;
   m = emlrtCreateDoubleScalar(e_u);
@@ -2654,7 +2468,7 @@ static const mxArray *b_emlrt_marshallOut(const uint32_T u[2])
 }
 
 static const mxArray *cgxe_mdl_get_sim_state
-  (InstanceStruct_otduqPw1TUwalbgDHtdM9C *moduleInstance)
+  (InstanceStruct_3RzNf8pcd3Smj4HTKf4YfB *moduleInstance)
 {
   const mxArray *st;
   st = NULL;
@@ -2662,7 +2476,7 @@ static const mxArray *cgxe_mdl_get_sim_state
   return st;
 }
 
-static void emlrt_marshallIn(InstanceStruct_otduqPw1TUwalbgDHtdM9C
+static void emlrt_marshallIn(InstanceStruct_3RzNf8pcd3Smj4HTKf4YfB
   *moduleInstance, const emlrtStack *sp, const mxArray *u)
 {
   emlrtMsgIdentifier thisId;
@@ -2815,7 +2629,7 @@ static void k_emlrt_marshallIn(const emlrtStack *sp, const mxArray *u, const
 {
   static const int32_T dims = 0;
   static const char_T *fieldNames[10] = { "isInitialized", "TunablePropsChanged",
-    "inputVarSize", "EbNo", "SignalPower", "pFirstInputNumChan", "pIsVarChannel",
+    "inputVarSize", "SNR", "SignalPower", "pFirstInputNumChan", "pIsVarChannel",
     "pNumChanFromProp", "pStd", "Seed" };
 
   emlrtMsgIdentifier thisId;
@@ -2832,9 +2646,9 @@ static void k_emlrt_marshallIn(const emlrtStack *sp, const mxArray *u, const
   thisId.fIdentifier = "inputVarSize";
   m_emlrt_marshallIn(sp, emlrtAlias(emlrtGetFieldR2017b((emlrtConstCTX)sp, u, 0,
     2, "inputVarSize")), &thisId, y->inputVarSize);
-  thisId.fIdentifier = "EbNo";
-  y->EbNo = o_emlrt_marshallIn(sp, emlrtAlias(emlrtGetFieldR2017b((emlrtConstCTX)
-    sp, u, 0, 3, "EbNo")), &thisId);
+  thisId.fIdentifier = "SNR";
+  y->SNR = o_emlrt_marshallIn(sp, emlrtAlias(emlrtGetFieldR2017b((emlrtConstCTX)
+    sp, u, 0, 3, "SNR")), &thisId);
   thisId.fIdentifier = "SignalPower";
   y->SignalPower = o_emlrt_marshallIn(sp, emlrtAlias(emlrtGetFieldR2017b
     ((emlrtConstCTX)sp, u, 0, 4, "SignalPower")), &thisId);
@@ -2899,7 +2713,7 @@ static real_T o_emlrt_marshallIn(const emlrtStack *sp, const mxArray *u, const
   return y;
 }
 
-static void cgxe_mdl_set_sim_state(InstanceStruct_otduqPw1TUwalbgDHtdM9C
+static void cgxe_mdl_set_sim_state(InstanceStruct_3RzNf8pcd3Smj4HTKf4YfB
   *moduleInstance, const mxArray *st)
 {
   emlrtStack b_st = { NULL,            /* site */
@@ -3052,7 +2866,7 @@ static real_T v_emlrt_marshallIn(const emlrtStack *sp, const mxArray *src, const
   return ret;
 }
 
-static real_T genrandn(uint32_T e_state[2])
+static real_T eml_rand_shr3cong(uint32_T e_state[2])
 {
   static real_T dv[65] = { 0.340945, 0.4573146, 0.5397793, 0.6062427, 0.6631691,
     0.7136975, 0.7596125, 0.8020356, 0.8417227, 0.8792102, 0.9148948, 0.9490791,
@@ -3065,10 +2879,12 @@ static real_T genrandn(uint32_T e_state[2])
     2.2725186, 2.3239338, 2.3795008, 2.4402218, 2.5075117, 2.5834658, 2.6713916,
     2.7769942, 2.7769942, 2.7769942, 2.7769942 };
 
+  real_T r;
   real_T s;
   real_T x;
   real_T y;
-  real_T z;
+  int32_T i;
+  uint32_T f_state[2];
   uint32_T icng;
   uint32_T j;
   uint32_T jsr;
@@ -3079,9 +2895,9 @@ static real_T genrandn(uint32_T e_state[2])
   jsr ^= jsr << 5;
   ui = icng + jsr;
   j = (ui & 63U) + 1U;
-  z = (real_T)(int32_T)ui * 4.6566128730773926E-10 * dv[(int32_T)j];
-  if (!(muDoubleScalarAbs(z) <= dv[(int32_T)j - 1])) {
-    x = (muDoubleScalarAbs(z) - dv[(int32_T)j - 1]) / (dv[(int32_T)j] - dv
+  r = (real_T)(int32_T)ui * 4.6566128730773926E-10 * dv[(int32_T)j];
+  if (!(muDoubleScalarAbs(r) <= dv[(int32_T)j - 1])) {
+    x = (muDoubleScalarAbs(r) - dv[(int32_T)j - 1]) / (dv[(int32_T)j] - dv
       [(int32_T)j - 1]);
     icng = 69069U * icng + 1234567U;
     jsr ^= jsr << 13;
@@ -3090,22 +2906,22 @@ static real_T genrandn(uint32_T e_state[2])
     y = (real_T)(int32_T)(icng + jsr) * 2.328306436538696E-10 + 0.5;
     s = x + y;
     if (s > 1.301198) {
-      if (z < 0.0) {
-        z = 0.4878992 * x - 0.4878992;
+      if (r < 0.0) {
+        r = 0.4878992 * x - 0.4878992;
       } else {
-        z = 0.4878992 - 0.4878992 * x;
+        r = 0.4878992 - 0.4878992 * x;
       }
     } else if (!(s <= 0.9689279)) {
       x = 0.4878992 - 0.4878992 * x;
       if (y > 12.67706 - 12.37586 * muDoubleScalarExp(-0.5 * x * x)) {
-        if (z < 0.0) {
-          z = -x;
+        if (r < 0.0) {
+          r = -x;
         } else {
-          z = x;
+          r = x;
         }
       } else if (!(muDoubleScalarExp(-0.5 * dv[(int32_T)j] * dv[(int32_T)j]) + y
-                   * 0.01958303 / dv[(int32_T)j] <= muDoubleScalarExp(-0.5 * z *
-        z))) {
+                   * 0.01958303 / dv[(int32_T)j] <= muDoubleScalarExp(-0.5 * r *
+        r))) {
         do {
           icng = 69069U * icng + 1234567U;
           jsr ^= jsr << 13;
@@ -3120,18 +2936,22 @@ static real_T genrandn(uint32_T e_state[2])
         } while (!(-2.0 * muDoubleScalarLog((real_T)(int32_T)(icng + jsr) *
                    2.328306436538696E-10 + 0.5) > x * x));
 
-        if (z < 0.0) {
-          z = x - 2.776994;
+        if (r < 0.0) {
+          r = x - 2.776994;
         } else {
-          z = 2.776994 - x;
+          r = 2.776994 - x;
         }
       }
     }
   }
 
-  e_state[0] = icng;
-  e_state[1] = jsr;
-  return z;
+  f_state[0] = icng;
+  f_state[1] = jsr;
+  for (i = 0; i < 2; i++) {
+    e_state[i] = f_state[i];
+  }
+
+  return r;
 }
 
 static real_T eml_rand_mt19937ar(const emlrtStack *sp, uint32_T e_state[625])
@@ -3284,7 +3104,7 @@ static real_T eml_rand_mt19937ar(const emlrtStack *sp, uint32_T e_state[625])
   st.tls = sp->tls;
   b_st.prev = &st;
   b_st.tls = st.tls;
-  st.site = &sb_emlrtRSI;
+  st.site = &qb_emlrtRSI;
   do {
     exitg1 = 0;
     genrand_uint32_vector(e_state, u32);
@@ -3294,7 +3114,7 @@ static real_T eml_rand_mt19937ar(const emlrtStack *sp, uint32_T e_state[625])
     if (muDoubleScalarAbs(r) <= dv[(int32_T)i - 1]) {
       exitg1 = 1;
     } else if (i < 256U) {
-      b_st.site = &tb_emlrtRSI;
+      b_st.site = &rb_emlrtRSI;
       u = b_genrandu(&b_st, e_state);
       if (dv1[(int32_T)i] + u * (dv1[(int32_T)i - 1] - dv1[(int32_T)i]) <
           muDoubleScalarExp(-0.5 * r * r)) {
@@ -3302,10 +3122,10 @@ static real_T eml_rand_mt19937ar(const emlrtStack *sp, uint32_T e_state[625])
       }
     } else {
       do {
-        b_st.site = &ub_emlrtRSI;
+        b_st.site = &sb_emlrtRSI;
         u = b_genrandu(&b_st, e_state);
         x = muDoubleScalarLog(u) * 0.273661237329758;
-        b_st.site = &vb_emlrtRSI;
+        b_st.site = &tb_emlrtRSI;
         u = b_genrandu(&b_st, e_state);
       } while (!(-2.0 * muDoubleScalarLog(u) > x * x));
 
@@ -3480,7 +3300,7 @@ static real_T b_genrandu(const emlrtStack *sp, uint32_T mt[625])
         m = emlrtCreateCharArray(2, &iv1[0]);
         emlrtInitCharArrayR2013a((emlrtConstCTX)sp, 37, m, &b_u[0]);
         emlrtAssign(&b_y, m);
-        st.site = &dc_emlrtRSI;
+        st.site = &bc_emlrtRSI;
         error(&st, y, getString(&st, b_message(&st, b_y, &m_emlrtMCI),
                &m_emlrtMCI), &m_emlrtMCI);
       }
@@ -3493,98 +3313,98 @@ static real_T b_genrandu(const emlrtStack *sp, uint32_T mt[625])
     u_idx_1);
 }
 
-static void init_simulink_io_address(InstanceStruct_otduqPw1TUwalbgDHtdM9C
+static void init_simulink_io_address(InstanceStruct_3RzNf8pcd3Smj4HTKf4YfB
   *moduleInstance)
 {
   moduleInstance->emlrtRootTLSGlobal = (void *)cgxertGetEMLRTCtx
     (moduleInstance->S);
-  moduleInstance->u0 = (creal_T (*)[13416])cgxertGetInputPortSignal
+  moduleInstance->u0 = (real_T (*)[3354])cgxertGetInputPortSignal
     (moduleInstance->S, 0);
-  moduleInstance->b_y0 = (creal_T (*)[13416])cgxertGetOutputPortSignal
+  moduleInstance->b_y0 = (real_T (*)[3354])cgxertGetOutputPortSignal
     (moduleInstance->S, 0);
 }
 
 /* CGXE Glue Code */
-static void mdlOutputs_otduqPw1TUwalbgDHtdM9C(SimStruct *S, int_T tid)
+static void mdlOutputs_3RzNf8pcd3Smj4HTKf4YfB(SimStruct *S, int_T tid)
 {
-  InstanceStruct_otduqPw1TUwalbgDHtdM9C *moduleInstance =
-    (InstanceStruct_otduqPw1TUwalbgDHtdM9C *)cgxertGetRuntimeInstance(S);
+  InstanceStruct_3RzNf8pcd3Smj4HTKf4YfB *moduleInstance =
+    (InstanceStruct_3RzNf8pcd3Smj4HTKf4YfB *)cgxertGetRuntimeInstance(S);
   cgxe_mdl_outputs(moduleInstance);
 }
 
-static void mdlInitialize_otduqPw1TUwalbgDHtdM9C(SimStruct *S)
+static void mdlInitialize_3RzNf8pcd3Smj4HTKf4YfB(SimStruct *S)
 {
-  InstanceStruct_otduqPw1TUwalbgDHtdM9C *moduleInstance =
-    (InstanceStruct_otduqPw1TUwalbgDHtdM9C *)cgxertGetRuntimeInstance(S);
+  InstanceStruct_3RzNf8pcd3Smj4HTKf4YfB *moduleInstance =
+    (InstanceStruct_3RzNf8pcd3Smj4HTKf4YfB *)cgxertGetRuntimeInstance(S);
   cgxe_mdl_initialize(moduleInstance);
 }
 
-static void mdlUpdate_otduqPw1TUwalbgDHtdM9C(SimStruct *S, int_T tid)
+static void mdlUpdate_3RzNf8pcd3Smj4HTKf4YfB(SimStruct *S, int_T tid)
 {
-  InstanceStruct_otduqPw1TUwalbgDHtdM9C *moduleInstance =
-    (InstanceStruct_otduqPw1TUwalbgDHtdM9C *)cgxertGetRuntimeInstance(S);
+  InstanceStruct_3RzNf8pcd3Smj4HTKf4YfB *moduleInstance =
+    (InstanceStruct_3RzNf8pcd3Smj4HTKf4YfB *)cgxertGetRuntimeInstance(S);
   cgxe_mdl_update(moduleInstance);
 }
 
-static void mdlDerivatives_otduqPw1TUwalbgDHtdM9C(SimStruct *S)
+static void mdlDerivatives_3RzNf8pcd3Smj4HTKf4YfB(SimStruct *S)
 {
-  InstanceStruct_otduqPw1TUwalbgDHtdM9C *moduleInstance =
-    (InstanceStruct_otduqPw1TUwalbgDHtdM9C *)cgxertGetRuntimeInstance(S);
+  InstanceStruct_3RzNf8pcd3Smj4HTKf4YfB *moduleInstance =
+    (InstanceStruct_3RzNf8pcd3Smj4HTKf4YfB *)cgxertGetRuntimeInstance(S);
   cgxe_mdl_derivative(moduleInstance);
 }
 
-static mxArray* getSimState_otduqPw1TUwalbgDHtdM9C(SimStruct *S)
+static mxArray* getSimState_3RzNf8pcd3Smj4HTKf4YfB(SimStruct *S)
 {
   mxArray* mxSS;
-  InstanceStruct_otduqPw1TUwalbgDHtdM9C *moduleInstance =
-    (InstanceStruct_otduqPw1TUwalbgDHtdM9C *)cgxertGetRuntimeInstance(S);
+  InstanceStruct_3RzNf8pcd3Smj4HTKf4YfB *moduleInstance =
+    (InstanceStruct_3RzNf8pcd3Smj4HTKf4YfB *)cgxertGetRuntimeInstance(S);
   mxSS = (mxArray *) cgxe_mdl_get_sim_state(moduleInstance);
   return mxSS;
 }
 
-static void setSimState_otduqPw1TUwalbgDHtdM9C(SimStruct *S, const mxArray *ss)
+static void setSimState_3RzNf8pcd3Smj4HTKf4YfB(SimStruct *S, const mxArray *ss)
 {
-  InstanceStruct_otduqPw1TUwalbgDHtdM9C *moduleInstance =
-    (InstanceStruct_otduqPw1TUwalbgDHtdM9C *)cgxertGetRuntimeInstance(S);
+  InstanceStruct_3RzNf8pcd3Smj4HTKf4YfB *moduleInstance =
+    (InstanceStruct_3RzNf8pcd3Smj4HTKf4YfB *)cgxertGetRuntimeInstance(S);
   cgxe_mdl_set_sim_state(moduleInstance, emlrtAlias(ss));
 }
 
-static void mdlTerminate_otduqPw1TUwalbgDHtdM9C(SimStruct *S)
+static void mdlTerminate_3RzNf8pcd3Smj4HTKf4YfB(SimStruct *S)
 {
-  InstanceStruct_otduqPw1TUwalbgDHtdM9C *moduleInstance =
-    (InstanceStruct_otduqPw1TUwalbgDHtdM9C *)cgxertGetRuntimeInstance(S);
+  InstanceStruct_3RzNf8pcd3Smj4HTKf4YfB *moduleInstance =
+    (InstanceStruct_3RzNf8pcd3Smj4HTKf4YfB *)cgxertGetRuntimeInstance(S);
   cgxe_mdl_terminate(moduleInstance);
   free((void *)moduleInstance);
 }
 
-static void mdlEnable_otduqPw1TUwalbgDHtdM9C(SimStruct *S)
+static void mdlEnable_3RzNf8pcd3Smj4HTKf4YfB(SimStruct *S)
 {
-  InstanceStruct_otduqPw1TUwalbgDHtdM9C *moduleInstance =
-    (InstanceStruct_otduqPw1TUwalbgDHtdM9C *)cgxertGetRuntimeInstance(S);
+  InstanceStruct_3RzNf8pcd3Smj4HTKf4YfB *moduleInstance =
+    (InstanceStruct_3RzNf8pcd3Smj4HTKf4YfB *)cgxertGetRuntimeInstance(S);
   cgxe_mdl_enable(moduleInstance);
 }
 
-static void mdlDisable_otduqPw1TUwalbgDHtdM9C(SimStruct *S)
+static void mdlDisable_3RzNf8pcd3Smj4HTKf4YfB(SimStruct *S)
 {
-  InstanceStruct_otduqPw1TUwalbgDHtdM9C *moduleInstance =
-    (InstanceStruct_otduqPw1TUwalbgDHtdM9C *)cgxertGetRuntimeInstance(S);
+  InstanceStruct_3RzNf8pcd3Smj4HTKf4YfB *moduleInstance =
+    (InstanceStruct_3RzNf8pcd3Smj4HTKf4YfB *)cgxertGetRuntimeInstance(S);
   cgxe_mdl_disable(moduleInstance);
 }
 
-static void mdlStart_otduqPw1TUwalbgDHtdM9C(SimStruct *S)
+static void mdlStart_3RzNf8pcd3Smj4HTKf4YfB(SimStruct *S)
 {
-  InstanceStruct_otduqPw1TUwalbgDHtdM9C *moduleInstance =
-    (InstanceStruct_otduqPw1TUwalbgDHtdM9C *)calloc(1, sizeof
-    (InstanceStruct_otduqPw1TUwalbgDHtdM9C));
+  InstanceStruct_3RzNf8pcd3Smj4HTKf4YfB *moduleInstance =
+    (InstanceStruct_3RzNf8pcd3Smj4HTKf4YfB *)calloc(1, sizeof
+    (InstanceStruct_3RzNf8pcd3Smj4HTKf4YfB));
   moduleInstance->S = S;
   cgxertSetRuntimeInstance(S, (void *)moduleInstance);
-  ssSetmdlOutputs(S, mdlOutputs_otduqPw1TUwalbgDHtdM9C);
-  ssSetmdlInitializeConditions(S, mdlInitialize_otduqPw1TUwalbgDHtdM9C);
-  ssSetmdlUpdate(S, mdlUpdate_otduqPw1TUwalbgDHtdM9C);
-  ssSetmdlDerivatives(S, mdlDerivatives_otduqPw1TUwalbgDHtdM9C);
-  ssSetmdlTerminate(S, mdlTerminate_otduqPw1TUwalbgDHtdM9C);
-  ssSetmdlEnable(S, mdlEnable_otduqPw1TUwalbgDHtdM9C);
-  ssSetmdlDisable(S, mdlDisable_otduqPw1TUwalbgDHtdM9C);
+  ssSetmdlOutputs(S, mdlOutputs_3RzNf8pcd3Smj4HTKf4YfB);
+  ssSetmdlInitializeConditions(S, mdlInitialize_3RzNf8pcd3Smj4HTKf4YfB);
+  ssSetmdlUpdate(S, mdlUpdate_3RzNf8pcd3Smj4HTKf4YfB);
+  ssSetmdlDerivatives(S, mdlDerivatives_3RzNf8pcd3Smj4HTKf4YfB);
+  ssSetmdlTerminate(S, mdlTerminate_3RzNf8pcd3Smj4HTKf4YfB);
+  ssSetmdlEnable(S, mdlEnable_3RzNf8pcd3Smj4HTKf4YfB);
+  ssSetmdlDisable(S, mdlDisable_3RzNf8pcd3Smj4HTKf4YfB);
   cgxe_mdl_start(moduleInstance);
 
   {
@@ -3594,42 +3414,42 @@ static void mdlStart_otduqPw1TUwalbgDHtdM9C(SimStruct *S)
   }
 }
 
-static void mdlProcessParameters_otduqPw1TUwalbgDHtdM9C(SimStruct *S)
+static void mdlProcessParameters_3RzNf8pcd3Smj4HTKf4YfB(SimStruct *S)
 {
 }
 
-void method_dispatcher_otduqPw1TUwalbgDHtdM9C(SimStruct *S, int_T method, void
+void method_dispatcher_3RzNf8pcd3Smj4HTKf4YfB(SimStruct *S, int_T method, void
   *data)
 {
   switch (method) {
    case SS_CALL_MDL_START:
-    mdlStart_otduqPw1TUwalbgDHtdM9C(S);
+    mdlStart_3RzNf8pcd3Smj4HTKf4YfB(S);
     break;
 
    case SS_CALL_MDL_PROCESS_PARAMETERS:
-    mdlProcessParameters_otduqPw1TUwalbgDHtdM9C(S);
+    mdlProcessParameters_3RzNf8pcd3Smj4HTKf4YfB(S);
     break;
 
    case SS_CALL_MDL_GET_SIM_STATE:
-    *((mxArray**) data) = getSimState_otduqPw1TUwalbgDHtdM9C(S);
+    *((mxArray**) data) = getSimState_3RzNf8pcd3Smj4HTKf4YfB(S);
     break;
 
    case SS_CALL_MDL_SET_SIM_STATE:
-    setSimState_otduqPw1TUwalbgDHtdM9C(S, (const mxArray *) data);
+    setSimState_3RzNf8pcd3Smj4HTKf4YfB(S, (const mxArray *) data);
     break;
 
    default:
     /* Unhandled method */
     /*
        sf_mex_error_message("Stateflow Internal Error:\n"
-       "Error calling method dispatcher for module: otduqPw1TUwalbgDHtdM9C.\n"
+       "Error calling method dispatcher for module: 3RzNf8pcd3Smj4HTKf4YfB.\n"
        "Can't handle method %d.\n", method);
      */
     break;
   }
 }
 
-mxArray *cgxe_otduqPw1TUwalbgDHtdM9C_BuildInfoUpdate(void)
+mxArray *cgxe_3RzNf8pcd3Smj4HTKf4YfB_BuildInfoUpdate(void)
 {
   mxArray * mxBIArgs;
   mxArray * elem_1;
@@ -3686,7 +3506,7 @@ mxArray *cgxe_otduqPw1TUwalbgDHtdM9C_BuildInfoUpdate(void)
   return mxBIArgs;
 }
 
-mxArray *cgxe_otduqPw1TUwalbgDHtdM9C_fallback_info(void)
+mxArray *cgxe_3RzNf8pcd3Smj4HTKf4YfB_fallback_info(void)
 {
   const char* fallbackInfoFields[] = { "fallbackType", "incompatiableSymbol" };
 
