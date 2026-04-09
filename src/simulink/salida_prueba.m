@@ -14,7 +14,7 @@ fprintf('Delay óptimo: %d bits — BER: %.8f\n', delay_optimo, ber_min);
 
 % Reconstruir
 
-delay = delay_optimo + 20 + 12;  % bits de delay detectados
+delay = delay_optimo;  % bits de delay detectados
 rx_corregido = out.simout1.Data(delay+1 : delay+6763104);
 
 raw = rx_corregido;
