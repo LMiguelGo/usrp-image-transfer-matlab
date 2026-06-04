@@ -1,0 +1,25 @@
+# MATLAB Temporary Files 
+*.asv          # MATLAB Auto-save files
+*.m~           # Editor temporary files
+mexputty.log   # MEX compilation logs
+
+# Simulink and Code Generation 
+slprj/         # Model simulation cache folder (CRITICAL)
+*_slprj/       # Cache folder variants
+*.slxc         # Simulink model cache files
+*.slxp         # Simulink temporary files
+*.slx.autosave # Simulink auto-save files
+
+# Workspace and Other Data 
+# Uncomment below if you want to ignore final output images:
+# data/output/*
+# !data/output/.gitkeep
+
+# Platform-Specific Binaries 
+*.mexw64       # Compiled binaries for Windows (64-bit)
+*.mexa64       # Compiled binaries for Linux (64-bit)
+*.mexmaci64    # Compiled binaries for macOS (Intel)
+
+# System Files
+.DS_Store      # macOS system metadata
+Thumbs.db      # Windows thumbnail cache
