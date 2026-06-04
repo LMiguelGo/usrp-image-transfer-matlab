@@ -11,26 +11,23 @@ To ensure all functions and models work correctly, follow these steps:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/LMiguelGo/usrp-image-transfer-matlab.git
+   git clone -b dev --single-branch https://github.com/LMiguelGo/usrp-image-transfer-matlab.git
    ```
-
-2. **Switch to development branch:**
-
-   ```bash
-   git checkout dev
-   ```
-
+   
+   Note: for development copy the "dev" branch and for execution copy the "main" branch.
 3. **Setup the MATLAB Path:**
 
    Open MATLAB and run the `setup.m` script located in the root folder.
-   This will automatically add all subfolders (`src`, `data`, `utils`) to your workspace.
+   This will automatically add all subfolders (`src/*`, `data/*`, `utils`) to your workspace.
 
-4. **Open the Model:**
+4. **Run the Simulation:**
 
-   Navigate to `src/simulink/` and open:
+   Depending on the node you are configuring, navigate to its respective folder inside `src/` and open the Simulink model:
 
-   * `tx.slx` for transmission
-   * `rx.slx` for reception
+   * For Transmission: Open `src/QPSKTransmitterWithUSRPHardwareInSimulinkExample/sdruqpsktx.slx`
+   * For Reception: Open `src/QPSKReceiverWithUSRPHardwareInSimulinkExample/sdruqpskrx.slx`
+
+   To run the transmitter node, you must first run the `src\ImageLoader\main.m` file. 
 
 ---
 
@@ -40,17 +37,32 @@ The repository is organized as follows to maintain a professional workflow:
 
 ```
 /
-├── docs/                # Block diagrams, user manual, and final report.
-├── src/                 # Main source code of the project.
-│   ├── matlab/          # Image processing scripts (.m) (encoding/decoding).
-│   ├── simulink/        # TX and RX models (.slx) with USRP blocks.
-│   └── utils/           # Auxiliary functions and specific filters.
-├── data/                # Input and output data.
-│   ├── input/           # Original images for testing (e.g., italy.jpg).
-│   └── output/          # Received images, constellation plots, and BER data.
-├── tests/               # Small scripts for modular testing (e.g., QPSK only).
-├── .gitignore           # Excludes MATLAB/Simulink temporary files.
-└── README.md            # Project description, team members, and usage guide.
+├── docs/                                                # Project documentation and sprint reports.
+│   ├── Sprint2_Documentation.pdf
+│   ├── Sprint3_Documentation.pdf
+│   └── Sprint4_Documentation.pdf
+├── src/                                                 # Main source code of the project.
+│   ├── ImageLoader/                                     # Image processing, serialization, and compression scripts (.m).
+│   │   ├── adaptar_tamano.m
+│   │   ├── cargar_imagen.m
+│   │   ├── comprimir_paleta.m
+│   │   ├── convertir_binario.m
+│   │   ├── main.m
+│   │   └── serializar_pixeles.m
+│   ├── QPSKReceiverWithUSRPHardwareInSimulinkExample/    # Simulink RX model and initialization scripts.
+│   │   └── sdruqpskrx.slx
+│   ├── QPSKTransmitterWithUSRPHardwareInSimulinkExample/ # Simulink TX model and initialization scripts.
+│   │   └── sdruqpsktx.slx
+│   └── utils/                                           # Auxiliary files, color palettes, and structural data.
+│       ├── datossi.mat
+│       └── paleta_colores.mat
+├── data/                                                # Input and output data.
+│   ├── input/                                           # Original images for testing (e.g., italy.jpg).
+│   └── output/                                          # Received images and processing results.
+├── tests/                                               # Modular scripts for isolated environment testing.
+├── .gitignore                                           # Excludes MATLAB/Simulink temporary and cache files.
+├── setup.m                                              # Environment configuration script.
+└── README.md                                            # Project description, team members, and usage guide.
 ```
 
 ---
