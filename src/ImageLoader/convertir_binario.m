@@ -1,4 +1,4 @@
-function secuencia_binaria = convertir_binario(secuencia_pixeles, filas, columnas)
+function secuencia_binaria = convertir_binario(secuencia_pixeles)
 % CONVERTIR_BINARIO Convierte la secuencia de píxeles indexados a bits
 % Entrada:  secuencia_pixeles -> vector 1D de índices uint8
 %           filas, columnas   -> dimensiones de la imagen
@@ -10,12 +10,4 @@ function secuencia_binaria = convertir_binario(secuencia_pixeles, filas, columna
     % Serializar la matriz binaria en un vector
     secuencia_binaria = binario_pixeles';
     secuencia_binaria = secuencia_binaria(:);
-
-    % Verificar tamaño
-    num_bits = length(secuencia_binaria);
-    if num_bits ~= (filas * columnas * 8)
-        longitud_real = filas * columnas * 8;
-        secuencia_binaria = secuencia_binaria(0:longitud_real);
-    end
-
 end

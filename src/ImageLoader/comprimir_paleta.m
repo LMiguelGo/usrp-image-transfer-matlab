@@ -1,4 +1,4 @@
-function [imagen_indexada, paleta] = comprimir_paleta(imagen)
+function imagen_indexada = comprimir_paleta(imagen)
 % COMPRIMIR_PALETA Aplica compresión por paleta indexada de 256 colores
 % Entrada:  imagen         -> imagen RGB uint8
 % Salidas:  imagen_indexada -> imagen comprimida con índices
@@ -12,5 +12,4 @@ function [imagen_indexada, paleta] = comprimir_paleta(imagen)
 
     % Guardar paleta en la ruta específica
     save(ruta_utils, 'paleta');
-
 end

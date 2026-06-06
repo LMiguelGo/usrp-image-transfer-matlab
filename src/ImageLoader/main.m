@@ -1,18 +1,19 @@
-% MAIN - Archivo principal del transmisor
+% MAIN - Archivo principal para cargar imagen y convertirla a bits
 clc
-disp(['Running main code', newline])
+disp(['Running main code - Image Loader', newline])
 
 % ── Función 1 Cargar imagen ──────────────────────────────
-[imagen, filas, columnas, canales] = cargar_imagen('italy.jpg');
+[imagen_tx, filas, columnas] = cargar_imagen('italy.jpg');
 
 % ── Función 2 Compresión por paleta ─────────────────────
-[imagen_indexada, paleta] = comprimir_paleta(imagen);
+imagen_indexada = comprimir_paleta(imagen_tx);
 
 % ── Función 3 Serialización de píxeles ──────────────────
-secuencia_pixeles = serializar_pixeles(imagen_indexada, filas, columnas);
+secuencia_pixeles = serializar_pixeles(imagen_indexada);
 
 % ── Función 4 Conversión a binario ──────────────────────
-secuencia_binaria = convertir_binario(secuencia_pixeles, filas, columnas);
+secuencia_binaria = convertir_binario(secuencia_pixeles);
+tamano_imagen = length(secuencia_binaria);
 
 % ── Función 5 Convertir a matriz de 11190 columnas x n filas ──────────────────────
 matriz_img = adaptar_tamano(secuencia_binaria, 11190);
@@ -21,4 +22,4 @@ matriz_img = adaptar_tamano(secuencia_binaria, 11190);
 matriz_binaria = anadir_cabecera(matriz_img);
 
 % ── Limpiar variables innecesarias del workspace ──────────────────────
-clearvars imagen filas columnas canales secuencia_pixeles imagen_indexada paleta secuencia_binaria matriz_img;
+clearvars canales secuencia_binaria matriz_img imagen_indexada secuencia_pixeles;
