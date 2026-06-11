@@ -3,8 +3,12 @@
 clc
 disp(['Running main code - Image Recovery', newline])
 
+% Se espera que la variable "dout" se cargue en el workspace después de
+% finalizar la transmisión
+datos = squeeze(dout.Data);
+
 % ── Función 1 Extraer las tramas que componen la imagen ──────────────────
-tramas_recuperadas = extraer_tramas(datos2d, tamano_imagen);
+tramas_recuperadas = extraer_tramas(datos, tamano_imagen);
 
 % ── Función 2 Cálculo de la BER ──────────────────
 ber = calcular_ber(tramas_recuperadas, matriz_binaria);

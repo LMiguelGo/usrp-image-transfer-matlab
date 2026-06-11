@@ -12,8 +12,7 @@ function matriz_binaria = anadir_cabecera(matriz_img)
     % 'de2bi' convierte decimal a binario. 'left-msb' asegura que el bit más 
     % significativo quede a la izquierda.
     cabeceras = de2bi(indices, 10, 'left-msb')';
-    size(cabeceras)
-    
+
     % Concatenar las cabeceras (10 bits) con la matriz original (11190 bits)
     matriz_binaria = [cabeceras; matriz_img];
 end
